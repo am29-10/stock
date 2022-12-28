@@ -1,0 +1,655 @@
+27 дек. 2022 13:48:31,243  INFO PausableInvocationsLogger - Acquiring request lock for [f: navigator, m: executeNavigatorAction, rq: 0] for request #0
+27 дек. 2022 13:48:31,244  INFO PausableInvocationsLogger - Acquired request lock for [f: navigator, m: executeNavigatorAction, rq: 0] for request #0
+27 дек. 2022 13:48:31,245  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 0]
+27 дек. 2022 13:48:31,300  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 0] finished
+27 дек. 2022 13:48:31,300  INFO PausableInvocationsLogger - Releasing request lock for [f: navigator, m: executeNavigatorAction, rq: 0] for request #0
+27 дек. 2022 13:48:31,301  INFO PausableInvocationsLogger - Released request lock for [f: navigator, m: executeNavigatorAction, rq: 0] for request #0
+27 дек. 2022 13:48:42,444  INFO PausableInvocationsLogger - Acquiring request lock for [f: navigator, m: executeNavigatorAction, rq: 1] for request #1
+27 дек. 2022 13:48:42,445  INFO PausableInvocationsLogger - Acquired request lock for [f: navigator, m: executeNavigatorAction, rq: 1] for request #1
+27 дек. 2022 13:48:42,445  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 1]
+27 дек. 2022 13:48:42,524  INFO PausableInvocationsLogger - Interaction [f: navigator, m: executeNavigatorAction, rq: 1] called delayUserInteraction: FormClientAction[modalitType: DOCKED]
+27 дек. 2022 13:48:42,524  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 1] finished
+27 дек. 2022 13:48:42,524  INFO PausableInvocationsLogger - Releasing request lock for [f: navigator, m: executeNavigatorAction, rq: 1] for request #1
+27 дек. 2022 13:48:42,524  INFO PausableInvocationsLogger - Released request lock for [f: navigator, m: executeNavigatorAction, rq: 1] for request #1
+27 дек. 2022 13:48:42,703  INFO PausableInvocationsLogger - Acquiring request lock for [f: Item.items, m: gainedFocus, rq: 0] for request #0
+27 дек. 2022 13:48:42,704  INFO PausableInvocationsLogger - Acquired request lock for [f: Item.items, m: gainedFocus, rq: 0] for request #0
+27 дек. 2022 13:48:42,704  INFO PausableInvocationsLogger - Run invocation: [f: Item.items, m: gainedFocus, rq: 0]
+27 дек. 2022 13:48:42,705  INFO PausableInvocationsLogger - Invocation [f: Item.items, m: gainedFocus, rq: 0] finished
+27 дек. 2022 13:48:42,705  INFO PausableInvocationsLogger - Releasing request lock for [f: Item.items, m: gainedFocus, rq: 0] for request #0
+27 дек. 2022 13:48:42,706  INFO PausableInvocationsLogger - Released request lock for [f: Item.items, m: gainedFocus, rq: 0] for request #0
+27 дек. 2022 13:48:44,554  INFO PausableInvocationsLogger - Acquiring request lock for [f: navigator, m: executeNavigatorAction, rq: 2] for request #2
+27 дек. 2022 13:48:44,555  INFO PausableInvocationsLogger - Acquired request lock for [f: navigator, m: executeNavigatorAction, rq: 2] for request #2
+27 дек. 2022 13:48:44,555  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 2]
+27 дек. 2022 13:48:44,571  INFO PausableInvocationsLogger - Interaction [f: navigator, m: executeNavigatorAction, rq: 2] called delayUserInteraction: FormClientAction[modalitType: DOCKED]
+27 дек. 2022 13:48:44,571  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 2] finished
+27 дек. 2022 13:48:44,571  INFO PausableInvocationsLogger - Releasing request lock for [f: navigator, m: executeNavigatorAction, rq: 2] for request #2
+27 дек. 2022 13:48:44,571  INFO PausableInvocationsLogger - Released request lock for [f: navigator, m: executeNavigatorAction, rq: 2] for request #2
+27 дек. 2022 13:48:44,604  INFO PausableInvocationsLogger - Acquiring request lock for [f: Stock.stocks, m: gainedFocus, rq: 0] for request #0
+27 дек. 2022 13:48:44,605  INFO PausableInvocationsLogger - Acquired request lock for [f: Stock.stocks, m: gainedFocus, rq: 0] for request #0
+27 дек. 2022 13:48:44,605  INFO PausableInvocationsLogger - Run invocation: [f: Stock.stocks, m: gainedFocus, rq: 0]
+27 дек. 2022 13:48:44,606  INFO PausableInvocationsLogger - Invocation [f: Stock.stocks, m: gainedFocus, rq: 0] finished
+27 дек. 2022 13:48:44,606  INFO PausableInvocationsLogger - Releasing request lock for [f: Stock.stocks, m: gainedFocus, rq: 0] for request #0
+27 дек. 2022 13:48:44,606  INFO PausableInvocationsLogger - Released request lock for [f: Stock.stocks, m: gainedFocus, rq: 0] for request #0
+27 дек. 2022 13:48:45,894  INFO PausableInvocationsLogger - Acquiring request lock for [f: navigator, m: executeNavigatorAction, rq: 3] for request #3
+27 дек. 2022 13:48:45,894  INFO PausableInvocationsLogger - Acquired request lock for [f: navigator, m: executeNavigatorAction, rq: 3] for request #3
+27 дек. 2022 13:48:45,895  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 3]
+27 дек. 2022 13:48:45,909  INFO PausableInvocationsLogger - Interaction [f: navigator, m: executeNavigatorAction, rq: 3] called delayUserInteraction: FormClientAction[modalitType: DOCKED]
+27 дек. 2022 13:48:45,909  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 3] finished
+27 дек. 2022 13:48:45,909  INFO PausableInvocationsLogger - Releasing request lock for [f: navigator, m: executeNavigatorAction, rq: 3] for request #3
+27 дек. 2022 13:48:45,909  INFO PausableInvocationsLogger - Released request lock for [f: navigator, m: executeNavigatorAction, rq: 3] for request #3
+27 дек. 2022 13:48:45,936  INFO PausableInvocationsLogger - Acquiring request lock for [f: LegalEntity.legalEntities, m: gainedFocus, rq: 0] for request #0
+27 дек. 2022 13:48:45,936  INFO PausableInvocationsLogger - Acquired request lock for [f: LegalEntity.legalEntities, m: gainedFocus, rq: 0] for request #0
+27 дек. 2022 13:48:45,936  INFO PausableInvocationsLogger - Run invocation: [f: LegalEntity.legalEntities, m: gainedFocus, rq: 0]
+27 дек. 2022 13:48:45,937  INFO PausableInvocationsLogger - Invocation [f: LegalEntity.legalEntities, m: gainedFocus, rq: 0] finished
+27 дек. 2022 13:48:45,937  INFO PausableInvocationsLogger - Releasing request lock for [f: LegalEntity.legalEntities, m: gainedFocus, rq: 0] for request #0
+27 дек. 2022 13:48:45,937  INFO PausableInvocationsLogger - Released request lock for [f: LegalEntity.legalEntities, m: gainedFocus, rq: 0] for request #0
+27 дек. 2022 13:48:48,680  INFO PausableInvocationsLogger - Acquiring request lock for [f: navigator, m: executeNavigatorAction, rq: 4] for request #4
+27 дек. 2022 13:48:48,680  INFO PausableInvocationsLogger - Acquired request lock for [f: navigator, m: executeNavigatorAction, rq: 4] for request #4
+27 дек. 2022 13:48:48,680  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 4]
+27 дек. 2022 13:48:48,706  INFO PausableInvocationsLogger - Interaction [f: navigator, m: executeNavigatorAction, rq: 4] called delayUserInteraction: FormClientAction[modalitType: DOCKED]
+27 дек. 2022 13:48:48,706  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 4] finished
+27 дек. 2022 13:48:48,706  INFO PausableInvocationsLogger - Releasing request lock for [f: navigator, m: executeNavigatorAction, rq: 4] for request #4
+27 дек. 2022 13:48:48,706  INFO PausableInvocationsLogger - Released request lock for [f: navigator, m: executeNavigatorAction, rq: 4] for request #4
+27 дек. 2022 13:48:48,743  INFO PausableInvocationsLogger - Acquiring request lock for [f: Receipt.receipts, m: gainedFocus, rq: 0] for request #0
+27 дек. 2022 13:48:48,743  INFO PausableInvocationsLogger - Acquired request lock for [f: Receipt.receipts, m: gainedFocus, rq: 0] for request #0
+27 дек. 2022 13:48:48,744  INFO PausableInvocationsLogger - Run invocation: [f: Receipt.receipts, m: gainedFocus, rq: 0]
+27 дек. 2022 13:48:48,744  INFO PausableInvocationsLogger - Invocation [f: Receipt.receipts, m: gainedFocus, rq: 0] finished
+27 дек. 2022 13:48:48,745  INFO PausableInvocationsLogger - Releasing request lock for [f: Receipt.receipts, m: gainedFocus, rq: 0] for request #0
+27 дек. 2022 13:48:48,745  INFO PausableInvocationsLogger - Released request lock for [f: Receipt.receipts, m: gainedFocus, rq: 0] for request #0
+27 дек. 2022 13:48:49,854  INFO PausableInvocationsLogger - Acquiring request lock for [f: navigator, m: executeNavigatorAction, rq: 5] for request #5
+27 дек. 2022 13:48:49,854  INFO PausableInvocationsLogger - Acquired request lock for [f: navigator, m: executeNavigatorAction, rq: 5] for request #5
+27 дек. 2022 13:48:49,854  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 5]
+27 дек. 2022 13:48:49,868  INFO PausableInvocationsLogger - Interaction [f: navigator, m: executeNavigatorAction, rq: 5] called delayUserInteraction: FormClientAction[modalitType: DOCKED]
+27 дек. 2022 13:48:49,868  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 5] finished
+27 дек. 2022 13:48:49,868  INFO PausableInvocationsLogger - Releasing request lock for [f: navigator, m: executeNavigatorAction, rq: 5] for request #5
+27 дек. 2022 13:48:49,868  INFO PausableInvocationsLogger - Released request lock for [f: navigator, m: executeNavigatorAction, rq: 5] for request #5
+27 дек. 2022 13:48:49,902  INFO PausableInvocationsLogger - Acquiring request lock for [f: Receipt.receipts, m: gainedFocus, rq: 0] for request #0
+27 дек. 2022 13:48:49,902  INFO PausableInvocationsLogger - Acquired request lock for [f: Receipt.receipts, m: gainedFocus, rq: 0] for request #0
+27 дек. 2022 13:48:49,902  INFO PausableInvocationsLogger - Run invocation: [f: Receipt.receipts, m: gainedFocus, rq: 0]
+27 дек. 2022 13:48:49,903  INFO PausableInvocationsLogger - Invocation [f: Receipt.receipts, m: gainedFocus, rq: 0] finished
+27 дек. 2022 13:48:49,903  INFO PausableInvocationsLogger - Releasing request lock for [f: Receipt.receipts, m: gainedFocus, rq: 0] for request #0
+27 дек. 2022 13:48:49,903  INFO PausableInvocationsLogger - Released request lock for [f: Receipt.receipts, m: gainedFocus, rq: 0] for request #0
+27 дек. 2022 13:48:50,922  INFO PausableInvocationsLogger - Acquiring request lock for [f: navigator, m: executeNavigatorAction, rq: 6] for request #6
+27 дек. 2022 13:48:50,922  INFO PausableInvocationsLogger - Acquired request lock for [f: navigator, m: executeNavigatorAction, rq: 6] for request #6
+27 дек. 2022 13:48:50,922  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 6]
+27 дек. 2022 13:48:50,942  INFO PausableInvocationsLogger - Interaction [f: navigator, m: executeNavigatorAction, rq: 6] called delayUserInteraction: FormClientAction[modalitType: DOCKED]
+27 дек. 2022 13:48:50,942  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 6] finished
+27 дек. 2022 13:48:50,942  INFO PausableInvocationsLogger - Releasing request lock for [f: navigator, m: executeNavigatorAction, rq: 6] for request #6
+27 дек. 2022 13:48:50,942  INFO PausableInvocationsLogger - Released request lock for [f: navigator, m: executeNavigatorAction, rq: 6] for request #6
+27 дек. 2022 13:48:50,976  INFO PausableInvocationsLogger - Acquiring request lock for [f: Shipment.shipments, m: gainedFocus, rq: 0] for request #0
+27 дек. 2022 13:48:50,976  INFO PausableInvocationsLogger - Acquired request lock for [f: Shipment.shipments, m: gainedFocus, rq: 0] for request #0
+27 дек. 2022 13:48:50,977  INFO PausableInvocationsLogger - Run invocation: [f: Shipment.shipments, m: gainedFocus, rq: 0]
+27 дек. 2022 13:48:50,977  INFO PausableInvocationsLogger - Invocation [f: Shipment.shipments, m: gainedFocus, rq: 0] finished
+27 дек. 2022 13:48:50,977  INFO PausableInvocationsLogger - Releasing request lock for [f: Shipment.shipments, m: gainedFocus, rq: 0] for request #0
+27 дек. 2022 13:48:50,977  INFO PausableInvocationsLogger - Released request lock for [f: Shipment.shipments, m: gainedFocus, rq: 0] for request #0
+27 дек. 2022 13:48:56,148  INFO PausableInvocationsLogger - Acquiring request lock for [f: navigator, m: executeNavigatorAction, rq: 7] for request #7
+27 дек. 2022 13:48:56,148  INFO PausableInvocationsLogger - Acquired request lock for [f: navigator, m: executeNavigatorAction, rq: 7] for request #7
+27 дек. 2022 13:48:56,148  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 7]
+27 дек. 2022 13:48:56,179  INFO PausableInvocationsLogger - Interaction [f: navigator, m: executeNavigatorAction, rq: 7] called delayUserInteraction: FormClientAction[modalitType: DOCKED]
+27 дек. 2022 13:48:56,179  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 7] finished
+27 дек. 2022 13:48:56,179  INFO PausableInvocationsLogger - Releasing request lock for [f: navigator, m: executeNavigatorAction, rq: 7] for request #7
+27 дек. 2022 13:48:56,180  INFO PausableInvocationsLogger - Released request lock for [f: navigator, m: executeNavigatorAction, rq: 7] for request #7
+27 дек. 2022 13:48:56,206  INFO PausableInvocationsLogger - Acquiring request lock for [f: StockItem.currentBalanceItemStock, m: gainedFocus, rq: 0] for request #0
+27 дек. 2022 13:48:56,207  INFO PausableInvocationsLogger - Acquired request lock for [f: StockItem.currentBalanceItemStock, m: gainedFocus, rq: 0] for request #0
+27 дек. 2022 13:48:56,207  INFO PausableInvocationsLogger - Run invocation: [f: StockItem.currentBalanceItemStock, m: gainedFocus, rq: 0]
+27 дек. 2022 13:48:56,208  INFO PausableInvocationsLogger - Invocation [f: StockItem.currentBalanceItemStock, m: gainedFocus, rq: 0] finished
+27 дек. 2022 13:48:56,208  INFO PausableInvocationsLogger - Releasing request lock for [f: StockItem.currentBalanceItemStock, m: gainedFocus, rq: 0] for request #0
+27 дек. 2022 13:48:56,208  INFO PausableInvocationsLogger - Released request lock for [f: StockItem.currentBalanceItemStock, m: gainedFocus, rq: 0] for request #0
+27 дек. 2022 13:55:32,130  INFO PausableInvocationsLogger - Acquiring request lock for [f: navigator, m: executeNavigatorAction, rq: 8] for request #8
+27 дек. 2022 13:55:32,130  INFO PausableInvocationsLogger - Acquired request lock for [f: navigator, m: executeNavigatorAction, rq: 8] for request #8
+27 дек. 2022 13:55:32,130  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 8]
+27 дек. 2022 13:55:32,143  INFO PausableInvocationsLogger - Interaction [f: navigator, m: executeNavigatorAction, rq: 8] called delayUserInteraction: FormClientAction[modalitType: DOCKED]
+27 дек. 2022 13:55:32,143  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 8] finished
+27 дек. 2022 13:55:32,143  INFO PausableInvocationsLogger - Releasing request lock for [f: navigator, m: executeNavigatorAction, rq: 8] for request #8
+27 дек. 2022 13:55:32,143  INFO PausableInvocationsLogger - Released request lock for [f: navigator, m: executeNavigatorAction, rq: 8] for request #8
+27 дек. 2022 13:55:32,170  INFO PausableInvocationsLogger - Acquiring request lock for [f: Stock.stocks, m: gainedFocus, rq: 0] for request #0
+27 дек. 2022 13:55:32,170  INFO PausableInvocationsLogger - Acquired request lock for [f: Stock.stocks, m: gainedFocus, rq: 0] for request #0
+27 дек. 2022 13:55:32,170  INFO PausableInvocationsLogger - Run invocation: [f: Stock.stocks, m: gainedFocus, rq: 0]
+27 дек. 2022 13:55:32,171  INFO PausableInvocationsLogger - Invocation [f: Stock.stocks, m: gainedFocus, rq: 0] finished
+27 дек. 2022 13:55:32,171  INFO PausableInvocationsLogger - Releasing request lock for [f: Stock.stocks, m: gainedFocus, rq: 0] for request #0
+27 дек. 2022 13:55:32,171  INFO PausableInvocationsLogger - Released request lock for [f: Stock.stocks, m: gainedFocus, rq: 0] for request #0
+27 дек. 2022 13:55:35,040  INFO PausableInvocationsLogger - Acquiring request lock for [f: Stock.stocks, m: changeProperty, rq: 1] for request #1
+27 дек. 2022 13:55:35,040  INFO PausableInvocationsLogger - Acquired request lock for [f: Stock.stocks, m: changeProperty, rq: 1] for request #1
+27 дек. 2022 13:55:35,040  INFO PausableInvocationsLogger - Run invocation: [f: Stock.stocks, m: changeProperty, rq: 1]
+27 дек. 2022 13:55:35,054  INFO PausableInvocationsLogger - Invocation [f: Stock.stocks, m: changeProperty, rq: 1] finished
+27 дек. 2022 13:55:35,055  INFO PausableInvocationsLogger - Releasing request lock for [f: Stock.stocks, m: changeProperty, rq: 1] for request #1
+27 дек. 2022 13:55:35,055  INFO PausableInvocationsLogger - Released request lock for [f: Stock.stocks, m: changeProperty, rq: 1] for request #1
+27 дек. 2022 13:55:36,176  INFO PausableInvocationsLogger - Acquiring request lock for [f: Stock.stocks, m: changePageSize, rq: 2] for request #2
+27 дек. 2022 13:55:36,176  INFO PausableInvocationsLogger - Acquired request lock for [f: Stock.stocks, m: changePageSize, rq: 2] for request #2
+27 дек. 2022 13:55:36,176  INFO PausableInvocationsLogger - Run invocation: [f: Stock.stocks, m: changePageSize, rq: 2]
+27 дек. 2022 13:55:36,177  INFO PausableInvocationsLogger - Invocation [f: Stock.stocks, m: changePageSize, rq: 2] finished
+27 дек. 2022 13:55:36,177  INFO PausableInvocationsLogger - Releasing request lock for [f: Stock.stocks, m: changePageSize, rq: 2] for request #2
+27 дек. 2022 13:55:36,177  INFO PausableInvocationsLogger - Released request lock for [f: Stock.stocks, m: changePageSize, rq: 2] for request #2
+27 дек. 2022 13:55:55,908  INFO PausableInvocationsLogger - Acquiring request lock for [f: Stock.stocks, m: changeProperty, rq: 3] for request #3
+27 дек. 2022 13:55:55,908  INFO PausableInvocationsLogger - Acquired request lock for [f: Stock.stocks, m: changeProperty, rq: 3] for request #3
+27 дек. 2022 13:55:55,908  INFO PausableInvocationsLogger - Run invocation: [f: Stock.stocks, m: changeProperty, rq: 3]
+27 дек. 2022 13:55:55,914  INFO PausableInvocationsLogger - Invocation [f: Stock.stocks, m: changeProperty, rq: 3] finished
+27 дек. 2022 13:55:55,914  INFO PausableInvocationsLogger - Releasing request lock for [f: Stock.stocks, m: changeProperty, rq: 3] for request #3
+27 дек. 2022 13:55:55,914  INFO PausableInvocationsLogger - Released request lock for [f: Stock.stocks, m: changeProperty, rq: 3] for request #3
+27 дек. 2022 13:56:26,795  INFO PausableInvocationsLogger - Acquiring request lock for [f: Stock.stocks, m: changeProperty, rq: 4] for request #4
+27 дек. 2022 13:56:26,795  INFO PausableInvocationsLogger - Acquired request lock for [f: Stock.stocks, m: changeProperty, rq: 4] for request #4
+27 дек. 2022 13:56:26,795  INFO PausableInvocationsLogger - Run invocation: [f: Stock.stocks, m: changeProperty, rq: 4]
+27 дек. 2022 13:56:26,801  INFO PausableInvocationsLogger - Invocation [f: Stock.stocks, m: changeProperty, rq: 4] finished
+27 дек. 2022 13:56:26,801  INFO PausableInvocationsLogger - Releasing request lock for [f: Stock.stocks, m: changeProperty, rq: 4] for request #4
+27 дек. 2022 13:56:26,801  INFO PausableInvocationsLogger - Released request lock for [f: Stock.stocks, m: changeProperty, rq: 4] for request #4
+27 дек. 2022 13:56:26,804  INFO PausableInvocationsLogger - Acquiring request lock for [f: Stock.stocks, m: executeEventAction, rq: 5] for request #5
+27 дек. 2022 13:56:26,804  INFO PausableInvocationsLogger - Acquired request lock for [f: Stock.stocks, m: executeEventAction, rq: 5] for request #5
+27 дек. 2022 13:56:26,804  INFO PausableInvocationsLogger - Run invocation: [f: Stock.stocks, m: executeEventAction, rq: 5]
+27 дек. 2022 13:56:26,841  INFO PausableInvocationsLogger - Interaction [f: Stock.stocks, m: executeEventAction, rq: 5] called delayUserInteraction: LogMessageClientAction[msg: Изменения были удачно записаны..., data: []]
+27 дек. 2022 13:56:26,841  INFO PausableInvocationsLogger - Interaction [f: Stock.stocks, m: executeEventAction, rq: 5] called delayUserInteraction: lsfusion.interop.action.HideFormClientAction@2855da1b
+27 дек. 2022 13:56:26,842  INFO PausableInvocationsLogger - Invocation [f: Stock.stocks, m: executeEventAction, rq: 5] finished
+27 дек. 2022 13:56:26,843  INFO PausableInvocationsLogger - Releasing request lock for [f: Stock.stocks, m: executeEventAction, rq: 5] for request #5
+27 дек. 2022 13:56:26,843  INFO PausableInvocationsLogger - Released request lock for [f: Stock.stocks, m: executeEventAction, rq: 5] for request #5
+27 дек. 2022 13:56:26,853  INFO PausableInvocationsLogger - Acquiring request lock for [f: StockItem.currentBalanceItemStock, m: gainedFocus, rq: 1] for request #1
+27 дек. 2022 13:56:26,854  INFO PausableInvocationsLogger - Acquired request lock for [f: StockItem.currentBalanceItemStock, m: gainedFocus, rq: 1] for request #1
+27 дек. 2022 13:56:26,854  INFO PausableInvocationsLogger - Run invocation: [f: StockItem.currentBalanceItemStock, m: gainedFocus, rq: 1]
+27 дек. 2022 13:56:26,861  INFO PausableInvocationsLogger - Invocation [f: StockItem.currentBalanceItemStock, m: gainedFocus, rq: 1] finished
+27 дек. 2022 13:56:26,861  INFO PausableInvocationsLogger - Releasing request lock for [f: StockItem.currentBalanceItemStock, m: gainedFocus, rq: 1] for request #1
+27 дек. 2022 13:56:26,861  INFO PausableInvocationsLogger - Released request lock for [f: StockItem.currentBalanceItemStock, m: gainedFocus, rq: 1] for request #1
+27 дек. 2022 13:56:33,033  INFO PausableInvocationsLogger - Acquiring request lock for [f: navigator, m: executeNavigatorAction, rq: 9] for request #9
+27 дек. 2022 13:56:33,033  INFO PausableInvocationsLogger - Acquired request lock for [f: navigator, m: executeNavigatorAction, rq: 9] for request #9
+27 дек. 2022 13:56:33,034  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 9]
+27 дек. 2022 13:56:33,050  INFO PausableInvocationsLogger - Interaction [f: navigator, m: executeNavigatorAction, rq: 9] called delayUserInteraction: FormClientAction[modalitType: DOCKED]
+27 дек. 2022 13:56:33,050  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 9] finished
+27 дек. 2022 13:56:33,050  INFO PausableInvocationsLogger - Releasing request lock for [f: navigator, m: executeNavigatorAction, rq: 9] for request #9
+27 дек. 2022 13:56:33,050  INFO PausableInvocationsLogger - Released request lock for [f: navigator, m: executeNavigatorAction, rq: 9] for request #9
+27 дек. 2022 13:56:33,076  INFO PausableInvocationsLogger - Acquiring request lock for [f: Stock.stocks, m: gainedFocus, rq: 0] for request #0
+27 дек. 2022 13:56:33,076  INFO PausableInvocationsLogger - Acquired request lock for [f: Stock.stocks, m: gainedFocus, rq: 0] for request #0
+27 дек. 2022 13:56:33,076  INFO PausableInvocationsLogger - Run invocation: [f: Stock.stocks, m: gainedFocus, rq: 0]
+27 дек. 2022 13:56:33,077  INFO PausableInvocationsLogger - Invocation [f: Stock.stocks, m: gainedFocus, rq: 0] finished
+27 дек. 2022 13:56:33,077  INFO PausableInvocationsLogger - Releasing request lock for [f: Stock.stocks, m: gainedFocus, rq: 0] for request #0
+27 дек. 2022 13:56:33,077  INFO PausableInvocationsLogger - Released request lock for [f: Stock.stocks, m: gainedFocus, rq: 0] for request #0
+27 дек. 2022 13:56:34,187  INFO PausableInvocationsLogger - Acquiring request lock for [f: Stock.stocks, m: changePageSize, rq: 1] for request #1
+27 дек. 2022 13:56:34,187  INFO PausableInvocationsLogger - Acquired request lock for [f: Stock.stocks, m: changePageSize, rq: 1] for request #1
+27 дек. 2022 13:56:34,187  INFO PausableInvocationsLogger - Run invocation: [f: Stock.stocks, m: changePageSize, rq: 1]
+27 дек. 2022 13:56:34,187  INFO PausableInvocationsLogger - Invocation [f: Stock.stocks, m: changePageSize, rq: 1] finished
+27 дек. 2022 13:56:34,188  INFO PausableInvocationsLogger - Releasing request lock for [f: Stock.stocks, m: changePageSize, rq: 1] for request #1
+27 дек. 2022 13:56:34,188  INFO PausableInvocationsLogger - Released request lock for [f: Stock.stocks, m: changePageSize, rq: 1] for request #1
+27 дек. 2022 13:56:42,923  INFO PausableInvocationsLogger - Acquiring request lock for [f: Stock.stocks, m: changeProperty, rq: 2] for request #2
+27 дек. 2022 13:56:42,923  INFO PausableInvocationsLogger - Acquired request lock for [f: Stock.stocks, m: changeProperty, rq: 2] for request #2
+27 дек. 2022 13:56:42,923  INFO PausableInvocationsLogger - Run invocation: [f: Stock.stocks, m: changeProperty, rq: 2]
+27 дек. 2022 13:56:42,928  INFO PausableInvocationsLogger - Acquiring request lock for [f: Stock.stocks, m: executeEventAction, rq: 3] for request #3
+27 дек. 2022 13:56:42,929  INFO PausableInvocationsLogger - Invocation [f: Stock.stocks, m: changeProperty, rq: 2] finished
+27 дек. 2022 13:56:42,929  INFO PausableInvocationsLogger - Releasing request lock for [f: Stock.stocks, m: changeProperty, rq: 2] for request #2
+27 дек. 2022 13:56:42,929  INFO PausableInvocationsLogger - Released request lock for [f: Stock.stocks, m: changeProperty, rq: 2] for request #2
+27 дек. 2022 13:56:42,929  INFO PausableInvocationsLogger - Acquired request lock for [f: Stock.stocks, m: executeEventAction, rq: 3] for request #3
+27 дек. 2022 13:56:42,929  INFO PausableInvocationsLogger - Run invocation: [f: Stock.stocks, m: executeEventAction, rq: 3]
+27 дек. 2022 13:56:42,959  INFO PausableInvocationsLogger - Interaction [f: Stock.stocks, m: executeEventAction, rq: 3] called delayUserInteraction: LogMessageClientAction[msg: Изменения были удачно записаны..., data: []]
+27 дек. 2022 13:56:42,959  INFO PausableInvocationsLogger - Interaction [f: Stock.stocks, m: executeEventAction, rq: 3] called delayUserInteraction: lsfusion.interop.action.HideFormClientAction@7c772e78
+27 дек. 2022 13:56:42,960  INFO PausableInvocationsLogger - Invocation [f: Stock.stocks, m: executeEventAction, rq: 3] finished
+27 дек. 2022 13:56:42,960  INFO PausableInvocationsLogger - Releasing request lock for [f: Stock.stocks, m: executeEventAction, rq: 3] for request #3
+27 дек. 2022 13:56:42,960  INFO PausableInvocationsLogger - Released request lock for [f: Stock.stocks, m: executeEventAction, rq: 3] for request #3
+27 дек. 2022 13:56:42,967  INFO PausableInvocationsLogger - Acquiring request lock for [f: StockItem.currentBalanceItemStock, m: gainedFocus, rq: 2] for request #2
+27 дек. 2022 13:56:42,967  INFO PausableInvocationsLogger - Acquired request lock for [f: StockItem.currentBalanceItemStock, m: gainedFocus, rq: 2] for request #2
+27 дек. 2022 13:56:42,968  INFO PausableInvocationsLogger - Run invocation: [f: StockItem.currentBalanceItemStock, m: gainedFocus, rq: 2]
+27 дек. 2022 13:56:42,968  INFO PausableInvocationsLogger - Invocation [f: StockItem.currentBalanceItemStock, m: gainedFocus, rq: 2] finished
+27 дек. 2022 13:56:42,968  INFO PausableInvocationsLogger - Releasing request lock for [f: StockItem.currentBalanceItemStock, m: gainedFocus, rq: 2] for request #2
+27 дек. 2022 13:56:42,968  INFO PausableInvocationsLogger - Released request lock for [f: StockItem.currentBalanceItemStock, m: gainedFocus, rq: 2] for request #2
+27 дек. 2022 13:57:03,650  INFO PausableInvocationsLogger - Acquiring request lock for [f: navigator, m: executeNavigatorAction, rq: 10] for request #10
+27 дек. 2022 13:57:03,650  INFO PausableInvocationsLogger - Acquired request lock for [f: navigator, m: executeNavigatorAction, rq: 10] for request #10
+27 дек. 2022 13:57:03,651  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 10]
+27 дек. 2022 13:57:03,661  INFO PausableInvocationsLogger - Interaction [f: navigator, m: executeNavigatorAction, rq: 10] called delayUserInteraction: FormClientAction[modalitType: DOCKED]
+27 дек. 2022 13:57:03,661  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 10] finished
+27 дек. 2022 13:57:03,661  INFO PausableInvocationsLogger - Releasing request lock for [f: navigator, m: executeNavigatorAction, rq: 10] for request #10
+27 дек. 2022 13:57:03,661  INFO PausableInvocationsLogger - Released request lock for [f: navigator, m: executeNavigatorAction, rq: 10] for request #10
+27 дек. 2022 13:57:03,685  INFO PausableInvocationsLogger - Acquiring request lock for [f: Item.items, m: gainedFocus, rq: 0] for request #0
+27 дек. 2022 13:57:03,685  INFO PausableInvocationsLogger - Acquired request lock for [f: Item.items, m: gainedFocus, rq: 0] for request #0
+27 дек. 2022 13:57:03,686  INFO PausableInvocationsLogger - Run invocation: [f: Item.items, m: gainedFocus, rq: 0]
+27 дек. 2022 13:57:03,686  INFO PausableInvocationsLogger - Invocation [f: Item.items, m: gainedFocus, rq: 0] finished
+27 дек. 2022 13:57:03,686  INFO PausableInvocationsLogger - Releasing request lock for [f: Item.items, m: gainedFocus, rq: 0] for request #0
+27 дек. 2022 13:57:03,686  INFO PausableInvocationsLogger - Released request lock for [f: Item.items, m: gainedFocus, rq: 0] for request #0
+27 дек. 2022 13:57:08,800  INFO PausableInvocationsLogger - Acquiring request lock for [f: Item.items, m: changeProperty, rq: 1] for request #1
+27 дек. 2022 13:57:08,800  INFO PausableInvocationsLogger - Acquired request lock for [f: Item.items, m: changeProperty, rq: 1] for request #1
+27 дек. 2022 13:57:08,800  INFO PausableInvocationsLogger - Run invocation: [f: Item.items, m: changeProperty, rq: 1]
+27 дек. 2022 13:57:08,810  INFO PausableInvocationsLogger - Invocation [f: Item.items, m: changeProperty, rq: 1] finished
+27 дек. 2022 13:57:08,810  INFO PausableInvocationsLogger - Releasing request lock for [f: Item.items, m: changeProperty, rq: 1] for request #1
+27 дек. 2022 13:57:08,810  INFO PausableInvocationsLogger - Released request lock for [f: Item.items, m: changeProperty, rq: 1] for request #1
+27 дек. 2022 13:57:09,917  INFO PausableInvocationsLogger - Acquiring request lock for [f: Item.items, m: changePageSize, rq: 2] for request #2
+27 дек. 2022 13:57:09,918  INFO PausableInvocationsLogger - Acquired request lock for [f: Item.items, m: changePageSize, rq: 2] for request #2
+27 дек. 2022 13:57:09,918  INFO PausableInvocationsLogger - Run invocation: [f: Item.items, m: changePageSize, rq: 2]
+27 дек. 2022 13:57:09,918  INFO PausableInvocationsLogger - Invocation [f: Item.items, m: changePageSize, rq: 2] finished
+27 дек. 2022 13:57:09,918  INFO PausableInvocationsLogger - Releasing request lock for [f: Item.items, m: changePageSize, rq: 2] for request #2
+27 дек. 2022 13:57:09,918  INFO PausableInvocationsLogger - Released request lock for [f: Item.items, m: changePageSize, rq: 2] for request #2
+27 дек. 2022 13:57:16,815  INFO PausableInvocationsLogger - Acquiring request lock for [f: Item.items, m: changeProperty, rq: 3] for request #3
+27 дек. 2022 13:57:16,815  INFO PausableInvocationsLogger - Acquired request lock for [f: Item.items, m: changeProperty, rq: 3] for request #3
+27 дек. 2022 13:57:16,815  INFO PausableInvocationsLogger - Run invocation: [f: Item.items, m: changeProperty, rq: 3]
+27 дек. 2022 13:57:16,820  INFO PausableInvocationsLogger - Invocation [f: Item.items, m: changeProperty, rq: 3] finished
+27 дек. 2022 13:57:16,820  INFO PausableInvocationsLogger - Releasing request lock for [f: Item.items, m: changeProperty, rq: 3] for request #3
+27 дек. 2022 13:57:16,820  INFO PausableInvocationsLogger - Released request lock for [f: Item.items, m: changeProperty, rq: 3] for request #3
+27 дек. 2022 13:57:24,978  INFO PausableInvocationsLogger - Acquiring request lock for [f: Item.items, m: changeProperty, rq: 4] for request #4
+27 дек. 2022 13:57:24,978  INFO PausableInvocationsLogger - Acquired request lock for [f: Item.items, m: changeProperty, rq: 4] for request #4
+27 дек. 2022 13:57:24,978  INFO PausableInvocationsLogger - Run invocation: [f: Item.items, m: changeProperty, rq: 4]
+27 дек. 2022 13:57:24,985  INFO PausableInvocationsLogger - Invocation [f: Item.items, m: changeProperty, rq: 4] finished
+27 дек. 2022 13:57:24,985  INFO PausableInvocationsLogger - Releasing request lock for [f: Item.items, m: changeProperty, rq: 4] for request #4
+27 дек. 2022 13:57:24,985  INFO PausableInvocationsLogger - Released request lock for [f: Item.items, m: changeProperty, rq: 4] for request #4
+27 дек. 2022 13:57:47,826  INFO PausableInvocationsLogger - Acquiring request lock for [f: Item.items, m: changeProperty, rq: 5] for request #5
+27 дек. 2022 13:57:47,826  INFO PausableInvocationsLogger - Acquired request lock for [f: Item.items, m: changeProperty, rq: 5] for request #5
+27 дек. 2022 13:57:47,826  INFO PausableInvocationsLogger - Run invocation: [f: Item.items, m: changeProperty, rq: 5]
+27 дек. 2022 13:57:47,831  INFO PausableInvocationsLogger - Invocation [f: Item.items, m: changeProperty, rq: 5] finished
+27 дек. 2022 13:57:47,831  INFO PausableInvocationsLogger - Releasing request lock for [f: Item.items, m: changeProperty, rq: 5] for request #5
+27 дек. 2022 13:57:47,831  INFO PausableInvocationsLogger - Released request lock for [f: Item.items, m: changeProperty, rq: 5] for request #5
+27 дек. 2022 13:58:01,188  INFO PausableInvocationsLogger - Acquiring request lock for [f: Item.items, m: executeEventAction, rq: 7] for request #7
+27 дек. 2022 13:58:01,235  INFO PausableInvocationsLogger - Acquiring request lock for [f: Item.items, m: changeProperty, rq: 6] for request #6
+27 дек. 2022 13:58:01,235  INFO PausableInvocationsLogger - Acquired request lock for [f: Item.items, m: changeProperty, rq: 6] for request #6
+27 дек. 2022 13:58:01,235  INFO PausableInvocationsLogger - Run invocation: [f: Item.items, m: changeProperty, rq: 6]
+27 дек. 2022 13:58:01,239  INFO PausableInvocationsLogger - Invocation [f: Item.items, m: changeProperty, rq: 6] finished
+27 дек. 2022 13:58:01,239  INFO PausableInvocationsLogger - Releasing request lock for [f: Item.items, m: changeProperty, rq: 6] for request #6
+27 дек. 2022 13:58:01,239  INFO PausableInvocationsLogger - Released request lock for [f: Item.items, m: changeProperty, rq: 6] for request #6
+27 дек. 2022 13:58:01,239  INFO PausableInvocationsLogger - Acquired request lock for [f: Item.items, m: executeEventAction, rq: 7] for request #7
+27 дек. 2022 13:58:01,239  INFO PausableInvocationsLogger - Run invocation: [f: Item.items, m: executeEventAction, rq: 7]
+27 дек. 2022 13:58:01,271  INFO PausableInvocationsLogger - Interaction [f: Item.items, m: executeEventAction, rq: 7] called delayUserInteraction: LogMessageClientAction[msg: Изменения были удачно записаны..., data: []]
+27 дек. 2022 13:58:01,272  INFO PausableInvocationsLogger - Interaction [f: Item.items, m: executeEventAction, rq: 7] called delayUserInteraction: lsfusion.interop.action.HideFormClientAction@63ebef9b
+27 дек. 2022 13:58:01,272  INFO PausableInvocationsLogger - Invocation [f: Item.items, m: executeEventAction, rq: 7] finished
+27 дек. 2022 13:58:01,272  INFO PausableInvocationsLogger - Releasing request lock for [f: Item.items, m: executeEventAction, rq: 7] for request #7
+27 дек. 2022 13:58:01,272  INFO PausableInvocationsLogger - Released request lock for [f: Item.items, m: executeEventAction, rq: 7] for request #7
+27 дек. 2022 13:58:01,280  INFO PausableInvocationsLogger - Acquiring request lock for [f: StockItem.currentBalanceItemStock, m: gainedFocus, rq: 3] for request #3
+27 дек. 2022 13:58:01,280  INFO PausableInvocationsLogger - Acquired request lock for [f: StockItem.currentBalanceItemStock, m: gainedFocus, rq: 3] for request #3
+27 дек. 2022 13:58:01,280  INFO PausableInvocationsLogger - Run invocation: [f: StockItem.currentBalanceItemStock, m: gainedFocus, rq: 3]
+27 дек. 2022 13:58:01,287  INFO PausableInvocationsLogger - Invocation [f: StockItem.currentBalanceItemStock, m: gainedFocus, rq: 3] finished
+27 дек. 2022 13:58:01,287  INFO PausableInvocationsLogger - Releasing request lock for [f: StockItem.currentBalanceItemStock, m: gainedFocus, rq: 3] for request #3
+27 дек. 2022 13:58:01,288  INFO PausableInvocationsLogger - Released request lock for [f: StockItem.currentBalanceItemStock, m: gainedFocus, rq: 3] for request #3
+27 дек. 2022 13:58:07,403  INFO PausableInvocationsLogger - Acquiring request lock for [f: navigator, m: executeNavigatorAction, rq: 11] for request #11
+27 дек. 2022 13:58:07,403  INFO PausableInvocationsLogger - Acquired request lock for [f: navigator, m: executeNavigatorAction, rq: 11] for request #11
+27 дек. 2022 13:58:07,404  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 11]
+27 дек. 2022 13:58:07,420  INFO PausableInvocationsLogger - Interaction [f: navigator, m: executeNavigatorAction, rq: 11] called delayUserInteraction: FormClientAction[modalitType: DOCKED]
+27 дек. 2022 13:58:07,420  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 11] finished
+27 дек. 2022 13:58:07,420  INFO PausableInvocationsLogger - Releasing request lock for [f: navigator, m: executeNavigatorAction, rq: 11] for request #11
+27 дек. 2022 13:58:07,420  INFO PausableInvocationsLogger - Released request lock for [f: navigator, m: executeNavigatorAction, rq: 11] for request #11
+27 дек. 2022 13:58:07,492  INFO PausableInvocationsLogger - Acquiring request lock for [f: Item.items, m: gainedFocus, rq: 0] for request #0
+27 дек. 2022 13:58:07,492  INFO PausableInvocationsLogger - Acquired request lock for [f: Item.items, m: gainedFocus, rq: 0] for request #0
+27 дек. 2022 13:58:07,492  INFO PausableInvocationsLogger - Run invocation: [f: Item.items, m: gainedFocus, rq: 0]
+27 дек. 2022 13:58:07,493  INFO PausableInvocationsLogger - Invocation [f: Item.items, m: gainedFocus, rq: 0] finished
+27 дек. 2022 13:58:07,493  INFO PausableInvocationsLogger - Releasing request lock for [f: Item.items, m: gainedFocus, rq: 0] for request #0
+27 дек. 2022 13:58:07,493  INFO PausableInvocationsLogger - Released request lock for [f: Item.items, m: gainedFocus, rq: 0] for request #0
+27 дек. 2022 13:58:08,611  INFO PausableInvocationsLogger - Acquiring request lock for [f: Item.items, m: changePageSize, rq: 1] for request #1
+27 дек. 2022 13:58:08,611  INFO PausableInvocationsLogger - Acquired request lock for [f: Item.items, m: changePageSize, rq: 1] for request #1
+27 дек. 2022 13:58:08,611  INFO PausableInvocationsLogger - Run invocation: [f: Item.items, m: changePageSize, rq: 1]
+27 дек. 2022 13:58:08,612  INFO PausableInvocationsLogger - Invocation [f: Item.items, m: changePageSize, rq: 1] finished
+27 дек. 2022 13:58:08,612  INFO PausableInvocationsLogger - Releasing request lock for [f: Item.items, m: changePageSize, rq: 1] for request #1
+27 дек. 2022 13:58:08,612  INFO PausableInvocationsLogger - Released request lock for [f: Item.items, m: changePageSize, rq: 1] for request #1
+27 дек. 2022 13:58:11,512  INFO PausableInvocationsLogger - Acquiring request lock for [f: Item.items, m: changeProperty, rq: 2] for request #2
+27 дек. 2022 13:58:11,512  INFO PausableInvocationsLogger - Acquired request lock for [f: Item.items, m: changeProperty, rq: 2] for request #2
+27 дек. 2022 13:58:11,512  INFO PausableInvocationsLogger - Run invocation: [f: Item.items, m: changeProperty, rq: 2]
+27 дек. 2022 13:58:11,516  INFO PausableInvocationsLogger - Invocation [f: Item.items, m: changeProperty, rq: 2] finished
+27 дек. 2022 13:58:11,517  INFO PausableInvocationsLogger - Releasing request lock for [f: Item.items, m: changeProperty, rq: 2] for request #2
+27 дек. 2022 13:58:11,517  INFO PausableInvocationsLogger - Released request lock for [f: Item.items, m: changeProperty, rq: 2] for request #2
+27 дек. 2022 13:58:22,347  INFO PausableInvocationsLogger - Acquiring request lock for [f: Item.items, m: changeProperty, rq: 3] for request #3
+27 дек. 2022 13:58:22,347  INFO PausableInvocationsLogger - Acquired request lock for [f: Item.items, m: changeProperty, rq: 3] for request #3
+27 дек. 2022 13:58:22,348  INFO PausableInvocationsLogger - Run invocation: [f: Item.items, m: changeProperty, rq: 3]
+27 дек. 2022 13:58:22,351  INFO PausableInvocationsLogger - Invocation [f: Item.items, m: changeProperty, rq: 3] finished
+27 дек. 2022 13:58:22,351  INFO PausableInvocationsLogger - Releasing request lock for [f: Item.items, m: changeProperty, rq: 3] for request #3
+27 дек. 2022 13:58:22,352  INFO PausableInvocationsLogger - Released request lock for [f: Item.items, m: changeProperty, rq: 3] for request #3
+27 дек. 2022 13:58:26,801  INFO PausableInvocationsLogger - Acquiring request lock for [f: Item.items, m: executeEventAction, rq: 4] for request #4
+27 дек. 2022 13:58:26,801  INFO PausableInvocationsLogger - Acquired request lock for [f: Item.items, m: executeEventAction, rq: 4] for request #4
+27 дек. 2022 13:58:26,801  INFO PausableInvocationsLogger - Run invocation: [f: Item.items, m: executeEventAction, rq: 4]
+27 дек. 2022 13:58:26,830  INFO PausableInvocationsLogger - Interaction [f: Item.items, m: executeEventAction, rq: 4] called delayUserInteraction: LogMessageClientAction[msg: Изменения были удачно записаны..., data: []]
+27 дек. 2022 13:58:26,830  INFO PausableInvocationsLogger - Interaction [f: Item.items, m: executeEventAction, rq: 4] called delayUserInteraction: lsfusion.interop.action.HideFormClientAction@1dc54f7a
+27 дек. 2022 13:58:26,830  INFO PausableInvocationsLogger - Invocation [f: Item.items, m: executeEventAction, rq: 4] finished
+27 дек. 2022 13:58:26,831  INFO PausableInvocationsLogger - Releasing request lock for [f: Item.items, m: executeEventAction, rq: 4] for request #4
+27 дек. 2022 13:58:26,831  INFO PausableInvocationsLogger - Released request lock for [f: Item.items, m: executeEventAction, rq: 4] for request #4
+27 дек. 2022 13:58:26,837  INFO PausableInvocationsLogger - Acquiring request lock for [f: StockItem.currentBalanceItemStock, m: gainedFocus, rq: 4] for request #4
+27 дек. 2022 13:58:26,837  INFO PausableInvocationsLogger - Acquired request lock for [f: StockItem.currentBalanceItemStock, m: gainedFocus, rq: 4] for request #4
+27 дек. 2022 13:58:26,837  INFO PausableInvocationsLogger - Run invocation: [f: StockItem.currentBalanceItemStock, m: gainedFocus, rq: 4]
+27 дек. 2022 13:58:26,838  INFO PausableInvocationsLogger - Invocation [f: StockItem.currentBalanceItemStock, m: gainedFocus, rq: 4] finished
+27 дек. 2022 13:58:26,838  INFO PausableInvocationsLogger - Releasing request lock for [f: StockItem.currentBalanceItemStock, m: gainedFocus, rq: 4] for request #4
+27 дек. 2022 13:58:26,838  INFO PausableInvocationsLogger - Released request lock for [f: StockItem.currentBalanceItemStock, m: gainedFocus, rq: 4] for request #4
+27 дек. 2022 13:58:46,774  INFO PausableInvocationsLogger - Acquiring request lock for [f: navigator, m: executeNavigatorAction, rq: 12] for request #12
+27 дек. 2022 13:58:46,774  INFO PausableInvocationsLogger - Acquired request lock for [f: navigator, m: executeNavigatorAction, rq: 12] for request #12
+27 дек. 2022 13:58:46,774  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 12]
+27 дек. 2022 13:58:46,785  INFO PausableInvocationsLogger - Interaction [f: navigator, m: executeNavigatorAction, rq: 12] called delayUserInteraction: FormClientAction[modalitType: DOCKED]
+27 дек. 2022 13:58:46,785  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 12] finished
+27 дек. 2022 13:58:46,785  INFO PausableInvocationsLogger - Releasing request lock for [f: navigator, m: executeNavigatorAction, rq: 12] for request #12
+27 дек. 2022 13:58:46,785  INFO PausableInvocationsLogger - Released request lock for [f: navigator, m: executeNavigatorAction, rq: 12] for request #12
+27 дек. 2022 13:58:46,809  INFO PausableInvocationsLogger - Acquiring request lock for [f: LegalEntity.legalEntities, m: gainedFocus, rq: 0] for request #0
+27 дек. 2022 13:58:46,809  INFO PausableInvocationsLogger - Acquired request lock for [f: LegalEntity.legalEntities, m: gainedFocus, rq: 0] for request #0
+27 дек. 2022 13:58:46,810  INFO PausableInvocationsLogger - Run invocation: [f: LegalEntity.legalEntities, m: gainedFocus, rq: 0]
+27 дек. 2022 13:58:46,810  INFO PausableInvocationsLogger - Invocation [f: LegalEntity.legalEntities, m: gainedFocus, rq: 0] finished
+27 дек. 2022 13:58:46,810  INFO PausableInvocationsLogger - Releasing request lock for [f: LegalEntity.legalEntities, m: gainedFocus, rq: 0] for request #0
+27 дек. 2022 13:58:46,810  INFO PausableInvocationsLogger - Released request lock for [f: LegalEntity.legalEntities, m: gainedFocus, rq: 0] for request #0
+27 дек. 2022 13:58:48,698  INFO PausableInvocationsLogger - Acquiring request lock for [f: LegalEntity.legalEntities, m: changeProperty, rq: 1] for request #1
+27 дек. 2022 13:58:48,698  INFO PausableInvocationsLogger - Acquired request lock for [f: LegalEntity.legalEntities, m: changeProperty, rq: 1] for request #1
+27 дек. 2022 13:58:48,698  INFO PausableInvocationsLogger - Run invocation: [f: LegalEntity.legalEntities, m: changeProperty, rq: 1]
+27 дек. 2022 13:58:48,707  INFO PausableInvocationsLogger - Invocation [f: LegalEntity.legalEntities, m: changeProperty, rq: 1] finished
+27 дек. 2022 13:58:48,707  INFO PausableInvocationsLogger - Releasing request lock for [f: LegalEntity.legalEntities, m: changeProperty, rq: 1] for request #1
+27 дек. 2022 13:58:48,707  INFO PausableInvocationsLogger - Released request lock for [f: LegalEntity.legalEntities, m: changeProperty, rq: 1] for request #1
+27 дек. 2022 13:58:49,821  INFO PausableInvocationsLogger - Acquiring request lock for [f: LegalEntity.legalEntities, m: changePageSize, rq: 2] for request #2
+27 дек. 2022 13:58:49,821  INFO PausableInvocationsLogger - Acquired request lock for [f: LegalEntity.legalEntities, m: changePageSize, rq: 2] for request #2
+27 дек. 2022 13:58:49,821  INFO PausableInvocationsLogger - Run invocation: [f: LegalEntity.legalEntities, m: changePageSize, rq: 2]
+27 дек. 2022 13:58:49,821  INFO PausableInvocationsLogger - Invocation [f: LegalEntity.legalEntities, m: changePageSize, rq: 2] finished
+27 дек. 2022 13:58:49,821  INFO PausableInvocationsLogger - Releasing request lock for [f: LegalEntity.legalEntities, m: changePageSize, rq: 2] for request #2
+27 дек. 2022 13:58:49,821  INFO PausableInvocationsLogger - Released request lock for [f: LegalEntity.legalEntities, m: changePageSize, rq: 2] for request #2
+27 дек. 2022 13:59:08,187  INFO PausableInvocationsLogger - Acquiring request lock for [f: LegalEntity.legalEntities, m: changeProperty, rq: 3] for request #3
+27 дек. 2022 13:59:08,187  INFO PausableInvocationsLogger - Acquired request lock for [f: LegalEntity.legalEntities, m: changeProperty, rq: 3] for request #3
+27 дек. 2022 13:59:08,187  INFO PausableInvocationsLogger - Run invocation: [f: LegalEntity.legalEntities, m: changeProperty, rq: 3]
+27 дек. 2022 13:59:08,191  INFO PausableInvocationsLogger - Invocation [f: LegalEntity.legalEntities, m: changeProperty, rq: 3] finished
+27 дек. 2022 13:59:08,191  INFO PausableInvocationsLogger - Releasing request lock for [f: LegalEntity.legalEntities, m: changeProperty, rq: 3] for request #3
+27 дек. 2022 13:59:08,191  INFO PausableInvocationsLogger - Released request lock for [f: LegalEntity.legalEntities, m: changeProperty, rq: 3] for request #3
+27 дек. 2022 13:59:17,634  INFO PausableInvocationsLogger - Acquiring request lock for [f: LegalEntity.legalEntities, m: changeProperty, rq: 4] for request #4
+27 дек. 2022 13:59:17,634  INFO PausableInvocationsLogger - Acquired request lock for [f: LegalEntity.legalEntities, m: changeProperty, rq: 4] for request #4
+27 дек. 2022 13:59:17,634  INFO PausableInvocationsLogger - Run invocation: [f: LegalEntity.legalEntities, m: changeProperty, rq: 4]
+27 дек. 2022 13:59:17,642  INFO PausableInvocationsLogger - Invocation [f: LegalEntity.legalEntities, m: changeProperty, rq: 4] finished
+27 дек. 2022 13:59:17,642  INFO PausableInvocationsLogger - Releasing request lock for [f: LegalEntity.legalEntities, m: changeProperty, rq: 4] for request #4
+27 дек. 2022 13:59:17,642  INFO PausableInvocationsLogger - Released request lock for [f: LegalEntity.legalEntities, m: changeProperty, rq: 4] for request #4
+27 дек. 2022 13:59:45,286  INFO PausableInvocationsLogger - Acquiring request lock for [f: LegalEntity.legalEntities, m: changeProperty, rq: 5] for request #5
+27 дек. 2022 13:59:45,286  INFO PausableInvocationsLogger - Acquired request lock for [f: LegalEntity.legalEntities, m: changeProperty, rq: 5] for request #5
+27 дек. 2022 13:59:45,286  INFO PausableInvocationsLogger - Run invocation: [f: LegalEntity.legalEntities, m: changeProperty, rq: 5]
+27 дек. 2022 13:59:45,290  INFO PausableInvocationsLogger - Invocation [f: LegalEntity.legalEntities, m: changeProperty, rq: 5] finished
+27 дек. 2022 13:59:45,290  INFO PausableInvocationsLogger - Releasing request lock for [f: LegalEntity.legalEntities, m: changeProperty, rq: 5] for request #5
+27 дек. 2022 13:59:45,290  INFO PausableInvocationsLogger - Released request lock for [f: LegalEntity.legalEntities, m: changeProperty, rq: 5] for request #5
+27 дек. 2022 14:00:00,177  INFO PausableInvocationsLogger - Acquiring request lock for [f: LegalEntity.legalEntities, m: changeProperty, rq: 6] for request #6
+27 дек. 2022 14:00:00,177  INFO PausableInvocationsLogger - Acquired request lock for [f: LegalEntity.legalEntities, m: changeProperty, rq: 6] for request #6
+27 дек. 2022 14:00:00,177  INFO PausableInvocationsLogger - Run invocation: [f: LegalEntity.legalEntities, m: changeProperty, rq: 6]
+27 дек. 2022 14:00:00,182  INFO PausableInvocationsLogger - Invocation [f: LegalEntity.legalEntities, m: changeProperty, rq: 6] finished
+27 дек. 2022 14:00:00,183  INFO PausableInvocationsLogger - Releasing request lock for [f: LegalEntity.legalEntities, m: changeProperty, rq: 6] for request #6
+27 дек. 2022 14:00:00,183  INFO PausableInvocationsLogger - Released request lock for [f: LegalEntity.legalEntities, m: changeProperty, rq: 6] for request #6
+27 дек. 2022 14:00:00,184  INFO PausableInvocationsLogger - Acquiring request lock for [f: LegalEntity.legalEntities, m: executeEventAction, rq: 7] for request #7
+27 дек. 2022 14:00:00,184  INFO PausableInvocationsLogger - Acquired request lock for [f: LegalEntity.legalEntities, m: executeEventAction, rq: 7] for request #7
+27 дек. 2022 14:00:00,185  INFO PausableInvocationsLogger - Run invocation: [f: LegalEntity.legalEntities, m: executeEventAction, rq: 7]
+27 дек. 2022 14:00:00,224  INFO PausableInvocationsLogger - Interaction [f: LegalEntity.legalEntities, m: executeEventAction, rq: 7] called delayUserInteraction: LogMessageClientAction[msg: Изменения были удачно записаны..., data: []]
+27 дек. 2022 14:00:00,224  INFO PausableInvocationsLogger - Interaction [f: LegalEntity.legalEntities, m: executeEventAction, rq: 7] called delayUserInteraction: lsfusion.interop.action.HideFormClientAction@3fa1adc3
+27 дек. 2022 14:00:00,225  INFO PausableInvocationsLogger - Invocation [f: LegalEntity.legalEntities, m: executeEventAction, rq: 7] finished
+27 дек. 2022 14:00:00,225  INFO PausableInvocationsLogger - Releasing request lock for [f: LegalEntity.legalEntities, m: executeEventAction, rq: 7] for request #7
+27 дек. 2022 14:00:00,225  INFO PausableInvocationsLogger - Released request lock for [f: LegalEntity.legalEntities, m: executeEventAction, rq: 7] for request #7
+27 дек. 2022 14:00:00,231  INFO PausableInvocationsLogger - Acquiring request lock for [f: StockItem.currentBalanceItemStock, m: gainedFocus, rq: 5] for request #5
+27 дек. 2022 14:00:00,232  INFO PausableInvocationsLogger - Acquired request lock for [f: StockItem.currentBalanceItemStock, m: gainedFocus, rq: 5] for request #5
+27 дек. 2022 14:00:00,232  INFO PausableInvocationsLogger - Run invocation: [f: StockItem.currentBalanceItemStock, m: gainedFocus, rq: 5]
+27 дек. 2022 14:00:00,232  INFO PausableInvocationsLogger - Invocation [f: StockItem.currentBalanceItemStock, m: gainedFocus, rq: 5] finished
+27 дек. 2022 14:00:00,232  INFO PausableInvocationsLogger - Releasing request lock for [f: StockItem.currentBalanceItemStock, m: gainedFocus, rq: 5] for request #5
+27 дек. 2022 14:00:00,233  INFO PausableInvocationsLogger - Released request lock for [f: StockItem.currentBalanceItemStock, m: gainedFocus, rq: 5] for request #5
+27 дек. 2022 14:00:04,210  INFO PausableInvocationsLogger - Acquiring request lock for [f: LegalEntity.legalEntities, m: gainedFocus, rq: 1] for request #1
+27 дек. 2022 14:00:04,211  INFO PausableInvocationsLogger - Acquired request lock for [f: LegalEntity.legalEntities, m: gainedFocus, rq: 1] for request #1
+27 дек. 2022 14:00:04,211  INFO PausableInvocationsLogger - Run invocation: [f: LegalEntity.legalEntities, m: gainedFocus, rq: 1]
+27 дек. 2022 14:00:04,219  INFO PausableInvocationsLogger - Invocation [f: LegalEntity.legalEntities, m: gainedFocus, rq: 1] finished
+27 дек. 2022 14:00:04,219  INFO PausableInvocationsLogger - Releasing request lock for [f: LegalEntity.legalEntities, m: gainedFocus, rq: 1] for request #1
+27 дек. 2022 14:00:04,219  INFO PausableInvocationsLogger - Released request lock for [f: LegalEntity.legalEntities, m: gainedFocus, rq: 1] for request #1
+27 дек. 2022 14:00:05,287  INFO PausableInvocationsLogger - Acquiring request lock for [f: Receipt.receipts, m: gainedFocus, rq: 1] for request #1
+27 дек. 2022 14:00:05,287  INFO PausableInvocationsLogger - Acquired request lock for [f: Receipt.receipts, m: gainedFocus, rq: 1] for request #1
+27 дек. 2022 14:00:05,288  INFO PausableInvocationsLogger - Run invocation: [f: Receipt.receipts, m: gainedFocus, rq: 1]
+27 дек. 2022 14:00:05,289  INFO PausableInvocationsLogger - Invocation [f: Receipt.receipts, m: gainedFocus, rq: 1] finished
+27 дек. 2022 14:00:05,289  INFO PausableInvocationsLogger - Releasing request lock for [f: Receipt.receipts, m: gainedFocus, rq: 1] for request #1
+27 дек. 2022 14:00:05,289  INFO PausableInvocationsLogger - Released request lock for [f: Receipt.receipts, m: gainedFocus, rq: 1] for request #1
+27 дек. 2022 14:11:03,610  INFO PausableInvocationsLogger - Acquiring request lock for [f: navigator, m: executeNavigatorAction, rq: 13] for request #13
+27 дек. 2022 14:11:03,611  INFO PausableInvocationsLogger - Acquired request lock for [f: navigator, m: executeNavigatorAction, rq: 13] for request #13
+27 дек. 2022 14:11:03,611  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 13]
+27 дек. 2022 14:11:03,650  INFO PausableInvocationsLogger - Interaction [f: navigator, m: executeNavigatorAction, rq: 13] called delayUserInteraction: FormClientAction[modalitType: DOCKED]
+27 дек. 2022 14:11:03,650  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 13] finished
+27 дек. 2022 14:11:03,650  INFO PausableInvocationsLogger - Releasing request lock for [f: navigator, m: executeNavigatorAction, rq: 13] for request #13
+27 дек. 2022 14:11:03,650  INFO PausableInvocationsLogger - Released request lock for [f: navigator, m: executeNavigatorAction, rq: 13] for request #13
+27 дек. 2022 14:11:03,674  INFO PausableInvocationsLogger - Acquiring request lock for [f: StockItem.currentBalanceItemStock, m: gainedFocus, rq: 0] for request #0
+27 дек. 2022 14:11:03,674  INFO PausableInvocationsLogger - Acquired request lock for [f: StockItem.currentBalanceItemStock, m: gainedFocus, rq: 0] for request #0
+27 дек. 2022 14:11:03,674  INFO PausableInvocationsLogger - Run invocation: [f: StockItem.currentBalanceItemStock, m: gainedFocus, rq: 0]
+27 дек. 2022 14:11:03,675  INFO PausableInvocationsLogger - Invocation [f: StockItem.currentBalanceItemStock, m: gainedFocus, rq: 0] finished
+27 дек. 2022 14:11:03,675  INFO PausableInvocationsLogger - Releasing request lock for [f: StockItem.currentBalanceItemStock, m: gainedFocus, rq: 0] for request #0
+27 дек. 2022 14:11:03,675  INFO PausableInvocationsLogger - Released request lock for [f: StockItem.currentBalanceItemStock, m: gainedFocus, rq: 0] for request #0
+27 дек. 2022 14:11:07,330  INFO PausableInvocationsLogger - Acquiring request lock for [f: navigator, m: executeNavigatorAction, rq: 14] for request #14
+27 дек. 2022 14:11:07,330  INFO PausableInvocationsLogger - Acquired request lock for [f: navigator, m: executeNavigatorAction, rq: 14] for request #14
+27 дек. 2022 14:11:07,330  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 14]
+27 дек. 2022 14:11:07,340  INFO PausableInvocationsLogger - Interaction [f: navigator, m: executeNavigatorAction, rq: 14] called delayUserInteraction: FormClientAction[modalitType: DOCKED]
+27 дек. 2022 14:11:07,341  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 14] finished
+27 дек. 2022 14:11:07,341  INFO PausableInvocationsLogger - Releasing request lock for [f: navigator, m: executeNavigatorAction, rq: 14] for request #14
+27 дек. 2022 14:11:07,341  INFO PausableInvocationsLogger - Released request lock for [f: navigator, m: executeNavigatorAction, rq: 14] for request #14
+27 дек. 2022 14:11:07,371  INFO PausableInvocationsLogger - Acquiring request lock for [f: Receipt.receipts, m: gainedFocus, rq: 0] for request #0
+27 дек. 2022 14:11:07,371  INFO PausableInvocationsLogger - Acquired request lock for [f: Receipt.receipts, m: gainedFocus, rq: 0] for request #0
+27 дек. 2022 14:11:07,371  INFO PausableInvocationsLogger - Run invocation: [f: Receipt.receipts, m: gainedFocus, rq: 0]
+27 дек. 2022 14:11:07,372  INFO PausableInvocationsLogger - Invocation [f: Receipt.receipts, m: gainedFocus, rq: 0] finished
+27 дек. 2022 14:11:07,372  INFO PausableInvocationsLogger - Releasing request lock for [f: Receipt.receipts, m: gainedFocus, rq: 0] for request #0
+27 дек. 2022 14:11:07,372  INFO PausableInvocationsLogger - Released request lock for [f: Receipt.receipts, m: gainedFocus, rq: 0] for request #0
+27 дек. 2022 14:11:10,013  INFO PausableInvocationsLogger - Acquiring request lock for [f: Receipt.receipts, m: executeEventAction, rq: 1] for request #1
+27 дек. 2022 14:11:10,013  INFO PausableInvocationsLogger - Acquired request lock for [f: Receipt.receipts, m: executeEventAction, rq: 1] for request #1
+27 дек. 2022 14:11:10,013  INFO PausableInvocationsLogger - Run invocation: [f: Receipt.receipts, m: executeEventAction, rq: 1]
+27 дек. 2022 14:11:10,032  INFO PausableInvocationsLogger - Interaction [f: Receipt.receipts, m: executeEventAction, rq: 1] called pauseForUserInteraction: [FormClientAction[modalitType: DOCKED_MODAL]]
+27 дек. 2022 14:11:10,063  INFO PausableInvocationsLogger - Acquiring request lock for [f: Receipt.receipt, m: gainedFocus, rq: 0] for request #0
+27 дек. 2022 14:11:10,063  INFO PausableInvocationsLogger - Acquired request lock for [f: Receipt.receipt, m: gainedFocus, rq: 0] for request #0
+27 дек. 2022 14:11:10,064  INFO PausableInvocationsLogger - Run invocation: [f: Receipt.receipt, m: gainedFocus, rq: 0]
+27 дек. 2022 14:11:10,065  INFO PausableInvocationsLogger - Invocation [f: Receipt.receipt, m: gainedFocus, rq: 0] finished
+27 дек. 2022 14:11:10,065  INFO PausableInvocationsLogger - Releasing request lock for [f: Receipt.receipt, m: gainedFocus, rq: 0] for request #0
+27 дек. 2022 14:11:10,065  INFO PausableInvocationsLogger - Released request lock for [f: Receipt.receipt, m: gainedFocus, rq: 0] for request #0
+27 дек. 2022 14:11:17,991  INFO PausableInvocationsLogger - Acquiring request lock for [f: Receipt.receipt, m: changeProperty, rq: 1] for request #1
+27 дек. 2022 14:11:17,991  INFO PausableInvocationsLogger - Acquired request lock for [f: Receipt.receipt, m: changeProperty, rq: 1] for request #1
+27 дек. 2022 14:11:17,991  INFO PausableInvocationsLogger - Run invocation: [f: Receipt.receipt, m: changeProperty, rq: 1]
+27 дек. 2022 14:11:17,994  INFO PausableInvocationsLogger - Invocation [f: Receipt.receipt, m: changeProperty, rq: 1] finished
+27 дек. 2022 14:11:17,994  INFO PausableInvocationsLogger - Releasing request lock for [f: Receipt.receipt, m: changeProperty, rq: 1] for request #1
+27 дек. 2022 14:11:17,994  INFO PausableInvocationsLogger - Released request lock for [f: Receipt.receipt, m: changeProperty, rq: 1] for request #1
+27 дек. 2022 14:11:20,600  INFO PausableInvocationsLogger - Acquiring request lock for [f: Receipt.receipt, m: changeProperty, rq: 2] for request #2
+27 дек. 2022 14:11:20,600  INFO PausableInvocationsLogger - Acquired request lock for [f: Receipt.receipt, m: changeProperty, rq: 2] for request #2
+27 дек. 2022 14:11:20,600  INFO PausableInvocationsLogger - Run invocation: [f: Receipt.receipt, m: changeProperty, rq: 2]
+27 дек. 2022 14:11:20,603  INFO PausableInvocationsLogger - Invocation [f: Receipt.receipt, m: changeProperty, rq: 2] finished
+27 дек. 2022 14:11:20,603  INFO PausableInvocationsLogger - Releasing request lock for [f: Receipt.receipt, m: changeProperty, rq: 2] for request #2
+27 дек. 2022 14:11:20,603  INFO PausableInvocationsLogger - Released request lock for [f: Receipt.receipt, m: changeProperty, rq: 2] for request #2
+27 дек. 2022 14:11:22,057  INFO PausableInvocationsLogger - Acquiring request lock for [f: Receipt.receipt, m: executeEventAction, rq: 3] for request #3
+27 дек. 2022 14:11:22,057  INFO PausableInvocationsLogger - Acquired request lock for [f: Receipt.receipt, m: executeEventAction, rq: 3] for request #3
+27 дек. 2022 14:11:22,057  INFO PausableInvocationsLogger - Run invocation: [f: Receipt.receipt, m: executeEventAction, rq: 3]
+27 дек. 2022 14:11:22,078  INFO PausableInvocationsLogger - Interaction [f: Receipt.receipt, m: executeEventAction, rq: 3] called pauseForUserInteraction: [FormClientAction[modalitType: DIALOG_MODAL]]
+27 дек. 2022 14:11:22,114  INFO PausableInvocationsLogger - Acquiring request lock for [f: _FORM_14715, m: gainedFocus, rq: 0] for request #0
+27 дек. 2022 14:11:22,114  INFO PausableInvocationsLogger - Acquired request lock for [f: _FORM_14715, m: gainedFocus, rq: 0] for request #0
+27 дек. 2022 14:11:22,115  INFO PausableInvocationsLogger - Run invocation: [f: _FORM_14715, m: gainedFocus, rq: 0]
+27 дек. 2022 14:11:22,115  INFO PausableInvocationsLogger - Invocation [f: _FORM_14715, m: gainedFocus, rq: 0] finished
+27 дек. 2022 14:11:22,115  INFO PausableInvocationsLogger - Releasing request lock for [f: _FORM_14715, m: gainedFocus, rq: 0] for request #0
+27 дек. 2022 14:11:22,115  INFO PausableInvocationsLogger - Released request lock for [f: _FORM_14715, m: gainedFocus, rq: 0] for request #0
+27 дек. 2022 14:11:23,234  INFO PausableInvocationsLogger - Acquiring request lock for [f: _FORM_14715, m: changePageSize, rq: 1] for request #1
+27 дек. 2022 14:11:23,235  INFO PausableInvocationsLogger - Acquired request lock for [f: _FORM_14715, m: changePageSize, rq: 1] for request #1
+27 дек. 2022 14:11:23,235  INFO PausableInvocationsLogger - Run invocation: [f: _FORM_14715, m: changePageSize, rq: 1]
+27 дек. 2022 14:11:23,235  INFO PausableInvocationsLogger - Invocation [f: _FORM_14715, m: changePageSize, rq: 1] finished
+27 дек. 2022 14:11:23,235  INFO PausableInvocationsLogger - Releasing request lock for [f: _FORM_14715, m: changePageSize, rq: 1] for request #1
+27 дек. 2022 14:11:23,235  INFO PausableInvocationsLogger - Released request lock for [f: _FORM_14715, m: changePageSize, rq: 1] for request #1
+27 дек. 2022 14:11:26,710  INFO PausableInvocationsLogger - Acquiring request lock for [f: _FORM_14715, m: executeEventAction, rq: 2] for request #2
+27 дек. 2022 14:11:26,710  INFO PausableInvocationsLogger - Acquired request lock for [f: _FORM_14715, m: executeEventAction, rq: 2] for request #2
+27 дек. 2022 14:11:26,710  INFO PausableInvocationsLogger - Run invocation: [f: _FORM_14715, m: executeEventAction, rq: 2]
+27 дек. 2022 14:11:26,712  INFO PausableInvocationsLogger - Interaction [f: _FORM_14715, m: executeEventAction, rq: 2] called delayUserInteraction: lsfusion.interop.action.HideFormClientAction@3c49b343
+27 дек. 2022 14:11:26,713  INFO PausableInvocationsLogger - Invocation [f: _FORM_14715, m: executeEventAction, rq: 2] finished
+27 дек. 2022 14:11:26,713  INFO PausableInvocationsLogger - Releasing request lock for [f: _FORM_14715, m: executeEventAction, rq: 2] for request #2
+27 дек. 2022 14:11:26,713  INFO PausableInvocationsLogger - Released request lock for [f: _FORM_14715, m: executeEventAction, rq: 2] for request #2
+27 дек. 2022 14:11:26,720  INFO PausableInvocationsLogger - Acquiring request lock for [f: Receipt.receipt, m: gainedFocus, rq: 4] for request #4
+27 дек. 2022 14:11:26,724  INFO PausableInvocationsLogger - Interaction [f: Receipt.receipt, m: executeEventAction, rq: 3] resumed after userInteraction: [null]
+27 дек. 2022 14:11:26,728  INFO PausableInvocationsLogger - Interaction [f: Receipt.receipt, m: executeEventAction, rq: 3] called delayUserInteraction: lsfusion.interop.action.UpdateEditValueClientAction@f4f0102
+27 дек. 2022 14:11:26,728  INFO PausableInvocationsLogger - Interaction [f: Receipt.receipt, m: executeEventAction, rq: 3] called delayUserInteraction: lsfusion.interop.action.AsyncGetRemoteChangesClientAction@24c38e88
+27 дек. 2022 14:11:26,729  INFO PausableInvocationsLogger - Invocation [f: Receipt.receipt, m: executeEventAction, rq: 3] finished
+27 дек. 2022 14:11:26,729  INFO PausableInvocationsLogger - Releasing request lock for [f: Receipt.receipt, m: executeEventAction, rq: 3] for request #3
+27 дек. 2022 14:11:26,729  INFO PausableInvocationsLogger - Released request lock for [f: Receipt.receipt, m: executeEventAction, rq: 3] for request #3
+27 дек. 2022 14:11:26,729  INFO PausableInvocationsLogger - Acquired request lock for [f: Receipt.receipt, m: gainedFocus, rq: 4] for request #4
+27 дек. 2022 14:11:26,729  INFO PausableInvocationsLogger - Run invocation: [f: Receipt.receipt, m: gainedFocus, rq: 4]
+27 дек. 2022 14:11:26,731  INFO PausableInvocationsLogger - Invocation [f: Receipt.receipt, m: gainedFocus, rq: 4] finished
+27 дек. 2022 14:11:26,731  INFO PausableInvocationsLogger - Releasing request lock for [f: Receipt.receipt, m: gainedFocus, rq: 4] for request #4
+27 дек. 2022 14:11:26,731  INFO PausableInvocationsLogger - Released request lock for [f: Receipt.receipt, m: gainedFocus, rq: 4] for request #4
+27 дек. 2022 14:11:26,735  INFO PausableInvocationsLogger - Acquiring request lock for [f: Receipt.receipt, m: getRemoteChanges, rq: 5] for request #5
+27 дек. 2022 14:11:26,735  INFO PausableInvocationsLogger - Acquired request lock for [f: Receipt.receipt, m: getRemoteChanges, rq: 5] for request #5
+27 дек. 2022 14:11:26,735  INFO PausableInvocationsLogger - Run invocation: [f: Receipt.receipt, m: getRemoteChanges, rq: 5]
+27 дек. 2022 14:11:26,736  INFO PausableInvocationsLogger - Invocation [f: Receipt.receipt, m: getRemoteChanges, rq: 5] finished
+27 дек. 2022 14:11:26,736  INFO PausableInvocationsLogger - Releasing request lock for [f: Receipt.receipt, m: getRemoteChanges, rq: 5] for request #5
+27 дек. 2022 14:11:26,736  INFO PausableInvocationsLogger - Released request lock for [f: Receipt.receipt, m: getRemoteChanges, rq: 5] for request #5
+27 дек. 2022 14:11:32,819  INFO PausableInvocationsLogger - Acquiring request lock for [f: Receipt.receipt, m: changeProperty, rq: 6] for request #6
+27 дек. 2022 14:11:32,819  INFO PausableInvocationsLogger - Acquired request lock for [f: Receipt.receipt, m: changeProperty, rq: 6] for request #6
+27 дек. 2022 14:11:32,819  INFO PausableInvocationsLogger - Run invocation: [f: Receipt.receipt, m: changeProperty, rq: 6]
+27 дек. 2022 14:11:32,849  INFO PausableInvocationsLogger - Invocation [f: Receipt.receipt, m: changeProperty, rq: 6] finished
+27 дек. 2022 14:11:32,849  INFO PausableInvocationsLogger - Releasing request lock for [f: Receipt.receipt, m: changeProperty, rq: 6] for request #6
+27 дек. 2022 14:11:32,849  INFO PausableInvocationsLogger - Released request lock for [f: Receipt.receipt, m: changeProperty, rq: 6] for request #6
+27 дек. 2022 14:11:33,966  INFO PausableInvocationsLogger - Acquiring request lock for [f: Receipt.receipt, m: changePageSize, rq: 7] for request #7
+27 дек. 2022 14:11:33,966  INFO PausableInvocationsLogger - Acquired request lock for [f: Receipt.receipt, m: changePageSize, rq: 7] for request #7
+27 дек. 2022 14:11:33,966  INFO PausableInvocationsLogger - Run invocation: [f: Receipt.receipt, m: changePageSize, rq: 7]
+27 дек. 2022 14:11:33,967  INFO PausableInvocationsLogger - Invocation [f: Receipt.receipt, m: changePageSize, rq: 7] finished
+27 дек. 2022 14:11:33,967  INFO PausableInvocationsLogger - Releasing request lock for [f: Receipt.receipt, m: changePageSize, rq: 7] for request #7
+27 дек. 2022 14:11:33,967  INFO PausableInvocationsLogger - Released request lock for [f: Receipt.receipt, m: changePageSize, rq: 7] for request #7
+27 дек. 2022 14:11:37,436  INFO PausableInvocationsLogger - Acquiring request lock for [f: Receipt.receipt, m: executeEventAction, rq: 8] for request #8
+27 дек. 2022 14:11:37,436  INFO PausableInvocationsLogger - Acquired request lock for [f: Receipt.receipt, m: executeEventAction, rq: 8] for request #8
+27 дек. 2022 14:11:37,436  INFO PausableInvocationsLogger - Run invocation: [f: Receipt.receipt, m: executeEventAction, rq: 8]
+27 дек. 2022 14:11:37,457  INFO PausableInvocationsLogger - Interaction [f: Receipt.receipt, m: executeEventAction, rq: 8] called pauseForUserInteraction: [FormClientAction[modalitType: DIALOG_MODAL]]
+27 дек. 2022 14:11:37,486  INFO PausableInvocationsLogger - Acquiring request lock for [f: _FORM_14452, m: gainedFocus, rq: 0] for request #0
+27 дек. 2022 14:11:37,486  INFO PausableInvocationsLogger - Acquired request lock for [f: _FORM_14452, m: gainedFocus, rq: 0] for request #0
+27 дек. 2022 14:11:37,487  INFO PausableInvocationsLogger - Run invocation: [f: _FORM_14452, m: gainedFocus, rq: 0]
+27 дек. 2022 14:11:37,487  INFO PausableInvocationsLogger - Invocation [f: _FORM_14452, m: gainedFocus, rq: 0] finished
+27 дек. 2022 14:11:37,487  INFO PausableInvocationsLogger - Releasing request lock for [f: _FORM_14452, m: gainedFocus, rq: 0] for request #0
+27 дек. 2022 14:11:37,487  INFO PausableInvocationsLogger - Released request lock for [f: _FORM_14452, m: gainedFocus, rq: 0] for request #0
+27 дек. 2022 14:11:38,595  INFO PausableInvocationsLogger - Acquiring request lock for [f: _FORM_14452, m: changePageSize, rq: 1] for request #1
+27 дек. 2022 14:11:38,595  INFO PausableInvocationsLogger - Acquired request lock for [f: _FORM_14452, m: changePageSize, rq: 1] for request #1
+27 дек. 2022 14:11:38,595  INFO PausableInvocationsLogger - Run invocation: [f: _FORM_14452, m: changePageSize, rq: 1]
+27 дек. 2022 14:11:38,595  INFO PausableInvocationsLogger - Invocation [f: _FORM_14452, m: changePageSize, rq: 1] finished
+27 дек. 2022 14:11:38,595  INFO PausableInvocationsLogger - Releasing request lock for [f: _FORM_14452, m: changePageSize, rq: 1] for request #1
+27 дек. 2022 14:11:38,595  INFO PausableInvocationsLogger - Released request lock for [f: _FORM_14452, m: changePageSize, rq: 1] for request #1
+27 дек. 2022 14:11:39,730  INFO PausableInvocationsLogger - Acquiring request lock for [f: _FORM_14452, m: executeEventAction, rq: 2] for request #2
+27 дек. 2022 14:11:39,730  INFO PausableInvocationsLogger - Acquired request lock for [f: _FORM_14452, m: executeEventAction, rq: 2] for request #2
+27 дек. 2022 14:11:39,730  INFO PausableInvocationsLogger - Run invocation: [f: _FORM_14452, m: executeEventAction, rq: 2]
+27 дек. 2022 14:11:39,733  INFO PausableInvocationsLogger - Interaction [f: _FORM_14452, m: executeEventAction, rq: 2] called delayUserInteraction: lsfusion.interop.action.HideFormClientAction@e67497a
+27 дек. 2022 14:11:39,734  INFO PausableInvocationsLogger - Invocation [f: _FORM_14452, m: executeEventAction, rq: 2] finished
+27 дек. 2022 14:11:39,734  INFO PausableInvocationsLogger - Releasing request lock for [f: _FORM_14452, m: executeEventAction, rq: 2] for request #2
+27 дек. 2022 14:11:39,734  INFO PausableInvocationsLogger - Released request lock for [f: _FORM_14452, m: executeEventAction, rq: 2] for request #2
+27 дек. 2022 14:11:39,740  INFO PausableInvocationsLogger - Acquiring request lock for [f: Receipt.receipt, m: gainedFocus, rq: 9] for request #9
+27 дек. 2022 14:11:39,742  INFO PausableInvocationsLogger - Interaction [f: Receipt.receipt, m: executeEventAction, rq: 8] resumed after userInteraction: [null]
+27 дек. 2022 14:11:39,745  INFO PausableInvocationsLogger - Interaction [f: Receipt.receipt, m: executeEventAction, rq: 8] called delayUserInteraction: lsfusion.interop.action.UpdateEditValueClientAction@3bab3d45
+27 дек. 2022 14:11:39,745  INFO PausableInvocationsLogger - Interaction [f: Receipt.receipt, m: executeEventAction, rq: 8] called delayUserInteraction: lsfusion.interop.action.AsyncGetRemoteChangesClientAction@2ecf961e
+27 дек. 2022 14:11:39,746  INFO PausableInvocationsLogger - Invocation [f: Receipt.receipt, m: executeEventAction, rq: 8] finished
+27 дек. 2022 14:11:39,746  INFO PausableInvocationsLogger - Releasing request lock for [f: Receipt.receipt, m: executeEventAction, rq: 8] for request #8
+27 дек. 2022 14:11:39,746  INFO PausableInvocationsLogger - Released request lock for [f: Receipt.receipt, m: executeEventAction, rq: 8] for request #8
+27 дек. 2022 14:11:39,746  INFO PausableInvocationsLogger - Acquired request lock for [f: Receipt.receipt, m: gainedFocus, rq: 9] for request #9
+27 дек. 2022 14:11:39,746  INFO PausableInvocationsLogger - Run invocation: [f: Receipt.receipt, m: gainedFocus, rq: 9]
+27 дек. 2022 14:11:39,750  INFO PausableInvocationsLogger - Acquiring request lock for [f: Receipt.receipt, m: getRemoteChanges, rq: 10] for request #10
+27 дек. 2022 14:11:39,750  INFO PausableInvocationsLogger - Invocation [f: Receipt.receipt, m: gainedFocus, rq: 9] finished
+27 дек. 2022 14:11:39,750  INFO PausableInvocationsLogger - Releasing request lock for [f: Receipt.receipt, m: gainedFocus, rq: 9] for request #9
+27 дек. 2022 14:11:39,750  INFO PausableInvocationsLogger - Released request lock for [f: Receipt.receipt, m: gainedFocus, rq: 9] for request #9
+27 дек. 2022 14:11:39,750  INFO PausableInvocationsLogger - Acquired request lock for [f: Receipt.receipt, m: getRemoteChanges, rq: 10] for request #10
+27 дек. 2022 14:11:39,750  INFO PausableInvocationsLogger - Run invocation: [f: Receipt.receipt, m: getRemoteChanges, rq: 10]
+27 дек. 2022 14:11:39,751  INFO PausableInvocationsLogger - Invocation [f: Receipt.receipt, m: getRemoteChanges, rq: 10] finished
+27 дек. 2022 14:11:39,751  INFO PausableInvocationsLogger - Releasing request lock for [f: Receipt.receipt, m: getRemoteChanges, rq: 10] for request #10
+27 дек. 2022 14:11:39,751  INFO PausableInvocationsLogger - Released request lock for [f: Receipt.receipt, m: getRemoteChanges, rq: 10] for request #10
+27 дек. 2022 14:11:45,879  INFO PausableInvocationsLogger - Acquiring request lock for [f: Receipt.receipt, m: changeProperty, rq: 11] for request #11
+27 дек. 2022 14:11:45,879  INFO PausableInvocationsLogger - Acquired request lock for [f: Receipt.receipt, m: changeProperty, rq: 11] for request #11
+27 дек. 2022 14:11:45,879  INFO PausableInvocationsLogger - Run invocation: [f: Receipt.receipt, m: changeProperty, rq: 11]
+27 дек. 2022 14:11:45,884  INFO PausableInvocationsLogger - Invocation [f: Receipt.receipt, m: changeProperty, rq: 11] finished
+27 дек. 2022 14:11:45,885  INFO PausableInvocationsLogger - Releasing request lock for [f: Receipt.receipt, m: changeProperty, rq: 11] for request #11
+27 дек. 2022 14:11:45,885  INFO PausableInvocationsLogger - Released request lock for [f: Receipt.receipt, m: changeProperty, rq: 11] for request #11
+27 дек. 2022 14:11:55,023  INFO PausableInvocationsLogger - Acquiring request lock for [f: Receipt.receipt, m: changeProperty, rq: 12] for request #12
+27 дек. 2022 14:11:55,023  INFO PausableInvocationsLogger - Acquired request lock for [f: Receipt.receipt, m: changeProperty, rq: 12] for request #12
+27 дек. 2022 14:11:55,023  INFO PausableInvocationsLogger - Run invocation: [f: Receipt.receipt, m: changeProperty, rq: 12]
+27 дек. 2022 14:11:55,036  INFO PausableInvocationsLogger - Invocation [f: Receipt.receipt, m: changeProperty, rq: 12] finished
+27 дек. 2022 14:11:55,036  INFO PausableInvocationsLogger - Releasing request lock for [f: Receipt.receipt, m: changeProperty, rq: 12] for request #12
+27 дек. 2022 14:11:55,036  INFO PausableInvocationsLogger - Released request lock for [f: Receipt.receipt, m: changeProperty, rq: 12] for request #12
+27 дек. 2022 14:12:00,844  INFO PausableInvocationsLogger - Acquiring request lock for [f: Receipt.receipt, m: executeEventAction, rq: 13] for request #13
+27 дек. 2022 14:12:00,844  INFO PausableInvocationsLogger - Acquired request lock for [f: Receipt.receipt, m: executeEventAction, rq: 13] for request #13
+27 дек. 2022 14:12:00,844  INFO PausableInvocationsLogger - Run invocation: [f: Receipt.receipt, m: executeEventAction, rq: 13]
+27 дек. 2022 14:12:00,906  INFO PausableInvocationsLogger - Interaction [f: Receipt.receipt, m: executeEventAction, rq: 13] called delayUserInteraction: LogMessageClientAction[msg: Изменения были удачно записаны..., data: []]
+27 дек. 2022 14:12:00,906  INFO PausableInvocationsLogger - Interaction [f: Receipt.receipt, m: executeEventAction, rq: 13] called delayUserInteraction: lsfusion.interop.action.HideFormClientAction@431e079d
+27 дек. 2022 14:12:00,907  INFO PausableInvocationsLogger - Invocation [f: Receipt.receipt, m: executeEventAction, rq: 13] finished
+27 дек. 2022 14:12:00,907  INFO PausableInvocationsLogger - Releasing request lock for [f: Receipt.receipt, m: executeEventAction, rq: 13] for request #13
+27 дек. 2022 14:12:00,907  INFO PausableInvocationsLogger - Released request lock for [f: Receipt.receipt, m: executeEventAction, rq: 13] for request #13
+27 дек. 2022 14:12:00,915  INFO PausableInvocationsLogger - Acquiring request lock for [f: Receipt.receipts, m: gainedFocus, rq: 2] for request #2
+27 дек. 2022 14:12:00,920  INFO PausableInvocationsLogger - Interaction [f: Receipt.receipts, m: executeEventAction, rq: 1] resumed after userInteraction: [null]
+27 дек. 2022 14:12:00,921  INFO PausableInvocationsLogger - Invocation [f: Receipt.receipts, m: executeEventAction, rq: 1] finished
+27 дек. 2022 14:12:00,921  INFO PausableInvocationsLogger - Releasing request lock for [f: Receipt.receipts, m: executeEventAction, rq: 1] for request #1
+27 дек. 2022 14:12:00,921  INFO PausableInvocationsLogger - Released request lock for [f: Receipt.receipts, m: executeEventAction, rq: 1] for request #1
+27 дек. 2022 14:12:00,921  INFO PausableInvocationsLogger - Acquired request lock for [f: Receipt.receipts, m: gainedFocus, rq: 2] for request #2
+27 дек. 2022 14:12:00,921  INFO PausableInvocationsLogger - Run invocation: [f: Receipt.receipts, m: gainedFocus, rq: 2]
+27 дек. 2022 14:12:00,940  INFO PausableInvocationsLogger - Invocation [f: Receipt.receipts, m: gainedFocus, rq: 2] finished
+27 дек. 2022 14:12:00,940  INFO PausableInvocationsLogger - Releasing request lock for [f: Receipt.receipts, m: gainedFocus, rq: 2] for request #2
+27 дек. 2022 14:12:00,940  INFO PausableInvocationsLogger - Released request lock for [f: Receipt.receipts, m: gainedFocus, rq: 2] for request #2
+27 дек. 2022 14:12:05,391  INFO PausableInvocationsLogger - Acquiring request lock for [f: navigator, m: executeNavigatorAction, rq: 15] for request #15
+27 дек. 2022 14:12:05,391  INFO PausableInvocationsLogger - Acquired request lock for [f: navigator, m: executeNavigatorAction, rq: 15] for request #15
+27 дек. 2022 14:12:05,391  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 15]
+27 дек. 2022 14:12:05,402  INFO PausableInvocationsLogger - Interaction [f: navigator, m: executeNavigatorAction, rq: 15] called delayUserInteraction: FormClientAction[modalitType: DOCKED]
+27 дек. 2022 14:12:05,403  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 15] finished
+27 дек. 2022 14:12:05,403  INFO PausableInvocationsLogger - Releasing request lock for [f: navigator, m: executeNavigatorAction, rq: 15] for request #15
+27 дек. 2022 14:12:05,403  INFO PausableInvocationsLogger - Released request lock for [f: navigator, m: executeNavigatorAction, rq: 15] for request #15
+27 дек. 2022 14:12:05,429  INFO PausableInvocationsLogger - Acquiring request lock for [f: Shipment.shipments, m: gainedFocus, rq: 0] for request #0
+27 дек. 2022 14:12:05,429  INFO PausableInvocationsLogger - Acquired request lock for [f: Shipment.shipments, m: gainedFocus, rq: 0] for request #0
+27 дек. 2022 14:12:05,429  INFO PausableInvocationsLogger - Run invocation: [f: Shipment.shipments, m: gainedFocus, rq: 0]
+27 дек. 2022 14:12:05,430  INFO PausableInvocationsLogger - Invocation [f: Shipment.shipments, m: gainedFocus, rq: 0] finished
+27 дек. 2022 14:12:05,430  INFO PausableInvocationsLogger - Releasing request lock for [f: Shipment.shipments, m: gainedFocus, rq: 0] for request #0
+27 дек. 2022 14:12:05,430  INFO PausableInvocationsLogger - Released request lock for [f: Shipment.shipments, m: gainedFocus, rq: 0] for request #0
+27 дек. 2022 14:12:08,381  INFO PausableInvocationsLogger - Acquiring request lock for [f: Shipment.shipments, m: executeEventAction, rq: 1] for request #1
+27 дек. 2022 14:12:08,382  INFO PausableInvocationsLogger - Acquired request lock for [f: Shipment.shipments, m: executeEventAction, rq: 1] for request #1
+27 дек. 2022 14:12:08,382  INFO PausableInvocationsLogger - Run invocation: [f: Shipment.shipments, m: executeEventAction, rq: 1]
+27 дек. 2022 14:12:08,399  INFO PausableInvocationsLogger - Interaction [f: Shipment.shipments, m: executeEventAction, rq: 1] called pauseForUserInteraction: [FormClientAction[modalitType: DOCKED_MODAL]]
+27 дек. 2022 14:12:08,428  INFO PausableInvocationsLogger - Acquiring request lock for [f: Shipment.shipment, m: gainedFocus, rq: 0] for request #0
+27 дек. 2022 14:12:08,428  INFO PausableInvocationsLogger - Acquired request lock for [f: Shipment.shipment, m: gainedFocus, rq: 0] for request #0
+27 дек. 2022 14:12:08,429  INFO PausableInvocationsLogger - Run invocation: [f: Shipment.shipment, m: gainedFocus, rq: 0]
+27 дек. 2022 14:12:08,430  INFO PausableInvocationsLogger - Invocation [f: Shipment.shipment, m: gainedFocus, rq: 0] finished
+27 дек. 2022 14:12:08,430  INFO PausableInvocationsLogger - Releasing request lock for [f: Shipment.shipment, m: gainedFocus, rq: 0] for request #0
+27 дек. 2022 14:12:08,430  INFO PausableInvocationsLogger - Released request lock for [f: Shipment.shipment, m: gainedFocus, rq: 0] for request #0
+27 дек. 2022 14:12:12,527  INFO PausableInvocationsLogger - Acquiring request lock for [f: Shipment.shipment, m: changeProperty, rq: 1] for request #1
+27 дек. 2022 14:12:12,528  INFO PausableInvocationsLogger - Acquired request lock for [f: Shipment.shipment, m: changeProperty, rq: 1] for request #1
+27 дек. 2022 14:12:12,528  INFO PausableInvocationsLogger - Run invocation: [f: Shipment.shipment, m: changeProperty, rq: 1]
+27 дек. 2022 14:12:12,530  INFO PausableInvocationsLogger - Invocation [f: Shipment.shipment, m: changeProperty, rq: 1] finished
+27 дек. 2022 14:12:12,530  INFO PausableInvocationsLogger - Releasing request lock for [f: Shipment.shipment, m: changeProperty, rq: 1] for request #1
+27 дек. 2022 14:12:12,530  INFO PausableInvocationsLogger - Released request lock for [f: Shipment.shipment, m: changeProperty, rq: 1] for request #1
+27 дек. 2022 14:12:14,145  INFO PausableInvocationsLogger - Acquiring request lock for [f: Shipment.shipment, m: changeProperty, rq: 2] for request #2
+27 дек. 2022 14:12:14,145  INFO PausableInvocationsLogger - Acquired request lock for [f: Shipment.shipment, m: changeProperty, rq: 2] for request #2
+27 дек. 2022 14:12:14,146  INFO PausableInvocationsLogger - Run invocation: [f: Shipment.shipment, m: changeProperty, rq: 2]
+27 дек. 2022 14:12:14,148  INFO PausableInvocationsLogger - Invocation [f: Shipment.shipment, m: changeProperty, rq: 2] finished
+27 дек. 2022 14:12:14,148  INFO PausableInvocationsLogger - Releasing request lock for [f: Shipment.shipment, m: changeProperty, rq: 2] for request #2
+27 дек. 2022 14:12:14,148  INFO PausableInvocationsLogger - Released request lock for [f: Shipment.shipment, m: changeProperty, rq: 2] for request #2
+27 дек. 2022 14:12:15,597  INFO PausableInvocationsLogger - Acquiring request lock for [f: Shipment.shipment, m: executeEventAction, rq: 3] for request #3
+27 дек. 2022 14:12:15,597  INFO PausableInvocationsLogger - Acquired request lock for [f: Shipment.shipment, m: executeEventAction, rq: 3] for request #3
+27 дек. 2022 14:12:15,597  INFO PausableInvocationsLogger - Run invocation: [f: Shipment.shipment, m: executeEventAction, rq: 3]
+27 дек. 2022 14:12:15,611  INFO PausableInvocationsLogger - Interaction [f: Shipment.shipment, m: executeEventAction, rq: 3] called pauseForUserInteraction: [FormClientAction[modalitType: DIALOG_MODAL]]
+27 дек. 2022 14:12:15,643  INFO PausableInvocationsLogger - Acquiring request lock for [f: _FORM_14715, m: gainedFocus, rq: 0] for request #0
+27 дек. 2022 14:12:15,643  INFO PausableInvocationsLogger - Acquired request lock for [f: _FORM_14715, m: gainedFocus, rq: 0] for request #0
+27 дек. 2022 14:12:15,643  INFO PausableInvocationsLogger - Run invocation: [f: _FORM_14715, m: gainedFocus, rq: 0]
+27 дек. 2022 14:12:15,643  INFO PausableInvocationsLogger - Invocation [f: _FORM_14715, m: gainedFocus, rq: 0] finished
+27 дек. 2022 14:12:15,643  INFO PausableInvocationsLogger - Releasing request lock for [f: _FORM_14715, m: gainedFocus, rq: 0] for request #0
+27 дек. 2022 14:12:15,643  INFO PausableInvocationsLogger - Released request lock for [f: _FORM_14715, m: gainedFocus, rq: 0] for request #0
+27 дек. 2022 14:12:16,753  INFO PausableInvocationsLogger - Acquiring request lock for [f: _FORM_14715, m: changePageSize, rq: 1] for request #1
+27 дек. 2022 14:12:16,753  INFO PausableInvocationsLogger - Acquired request lock for [f: _FORM_14715, m: changePageSize, rq: 1] for request #1
+27 дек. 2022 14:12:16,753  INFO PausableInvocationsLogger - Run invocation: [f: _FORM_14715, m: changePageSize, rq: 1]
+27 дек. 2022 14:12:16,753  INFO PausableInvocationsLogger - Invocation [f: _FORM_14715, m: changePageSize, rq: 1] finished
+27 дек. 2022 14:12:16,753  INFO PausableInvocationsLogger - Releasing request lock for [f: _FORM_14715, m: changePageSize, rq: 1] for request #1
+27 дек. 2022 14:12:16,753  INFO PausableInvocationsLogger - Released request lock for [f: _FORM_14715, m: changePageSize, rq: 1] for request #1
+27 дек. 2022 14:12:19,164  INFO PausableInvocationsLogger - Acquiring request lock for [f: _FORM_14715, m: executeEventAction, rq: 2] for request #2
+27 дек. 2022 14:12:19,164  INFO PausableInvocationsLogger - Acquired request lock for [f: _FORM_14715, m: executeEventAction, rq: 2] for request #2
+27 дек. 2022 14:12:19,164  INFO PausableInvocationsLogger - Run invocation: [f: _FORM_14715, m: executeEventAction, rq: 2]
+27 дек. 2022 14:12:19,167  INFO PausableInvocationsLogger - Interaction [f: _FORM_14715, m: executeEventAction, rq: 2] called delayUserInteraction: lsfusion.interop.action.HideFormClientAction@15784dde
+27 дек. 2022 14:12:19,167  INFO PausableInvocationsLogger - Invocation [f: _FORM_14715, m: executeEventAction, rq: 2] finished
+27 дек. 2022 14:12:19,167  INFO PausableInvocationsLogger - Releasing request lock for [f: _FORM_14715, m: executeEventAction, rq: 2] for request #2
+27 дек. 2022 14:12:19,167  INFO PausableInvocationsLogger - Released request lock for [f: _FORM_14715, m: executeEventAction, rq: 2] for request #2
+27 дек. 2022 14:12:19,173  INFO PausableInvocationsLogger - Acquiring request lock for [f: Shipment.shipment, m: gainedFocus, rq: 4] for request #4
+27 дек. 2022 14:12:19,177  INFO PausableInvocationsLogger - Interaction [f: Shipment.shipment, m: executeEventAction, rq: 3] resumed after userInteraction: [null]
+27 дек. 2022 14:12:19,180  INFO PausableInvocationsLogger - Interaction [f: Shipment.shipment, m: executeEventAction, rq: 3] called delayUserInteraction: lsfusion.interop.action.UpdateEditValueClientAction@2de0fd49
+27 дек. 2022 14:12:19,180  INFO PausableInvocationsLogger - Interaction [f: Shipment.shipment, m: executeEventAction, rq: 3] called delayUserInteraction: lsfusion.interop.action.AsyncGetRemoteChangesClientAction@196d8017
+27 дек. 2022 14:12:19,180  INFO PausableInvocationsLogger - Invocation [f: Shipment.shipment, m: executeEventAction, rq: 3] finished
+27 дек. 2022 14:12:19,180  INFO PausableInvocationsLogger - Releasing request lock for [f: Shipment.shipment, m: executeEventAction, rq: 3] for request #3
+27 дек. 2022 14:12:19,181  INFO PausableInvocationsLogger - Released request lock for [f: Shipment.shipment, m: executeEventAction, rq: 3] for request #3
+27 дек. 2022 14:12:19,181  INFO PausableInvocationsLogger - Acquired request lock for [f: Shipment.shipment, m: gainedFocus, rq: 4] for request #4
+27 дек. 2022 14:12:19,181  INFO PausableInvocationsLogger - Run invocation: [f: Shipment.shipment, m: gainedFocus, rq: 4]
+27 дек. 2022 14:12:19,183  INFO PausableInvocationsLogger - Invocation [f: Shipment.shipment, m: gainedFocus, rq: 4] finished
+27 дек. 2022 14:12:19,183  INFO PausableInvocationsLogger - Releasing request lock for [f: Shipment.shipment, m: gainedFocus, rq: 4] for request #4
+27 дек. 2022 14:12:19,183  INFO PausableInvocationsLogger - Released request lock for [f: Shipment.shipment, m: gainedFocus, rq: 4] for request #4
+27 дек. 2022 14:12:19,184  INFO PausableInvocationsLogger - Acquiring request lock for [f: Shipment.shipment, m: getRemoteChanges, rq: 5] for request #5
+27 дек. 2022 14:12:19,184  INFO PausableInvocationsLogger - Acquired request lock for [f: Shipment.shipment, m: getRemoteChanges, rq: 5] for request #5
+27 дек. 2022 14:12:19,184  INFO PausableInvocationsLogger - Run invocation: [f: Shipment.shipment, m: getRemoteChanges, rq: 5]
+27 дек. 2022 14:12:19,185  INFO PausableInvocationsLogger - Invocation [f: Shipment.shipment, m: getRemoteChanges, rq: 5] finished
+27 дек. 2022 14:12:19,185  INFO PausableInvocationsLogger - Releasing request lock for [f: Shipment.shipment, m: getRemoteChanges, rq: 5] for request #5
+27 дек. 2022 14:12:19,185  INFO PausableInvocationsLogger - Released request lock for [f: Shipment.shipment, m: getRemoteChanges, rq: 5] for request #5
+27 дек. 2022 14:12:21,485  INFO PausableInvocationsLogger - Acquiring request lock for [f: Shipment.shipment, m: executeEventAction, rq: 6] for request #6
+27 дек. 2022 14:12:21,485  INFO PausableInvocationsLogger - Acquired request lock for [f: Shipment.shipment, m: executeEventAction, rq: 6] for request #6
+27 дек. 2022 14:12:21,485  INFO PausableInvocationsLogger - Run invocation: [f: Shipment.shipment, m: executeEventAction, rq: 6]
+27 дек. 2022 14:12:21,520  INFO PausableInvocationsLogger - Interaction [f: Shipment.shipment, m: executeEventAction, rq: 6] called delayUserInteraction: LogMessageClientAction[msg: Изменения были удачно записаны..., data: []]
+27 дек. 2022 14:12:21,521  INFO PausableInvocationsLogger - Interaction [f: Shipment.shipment, m: executeEventAction, rq: 6] called delayUserInteraction: lsfusion.interop.action.HideFormClientAction@a0eaba
+27 дек. 2022 14:12:21,521  INFO PausableInvocationsLogger - Invocation [f: Shipment.shipment, m: executeEventAction, rq: 6] finished
+27 дек. 2022 14:12:21,521  INFO PausableInvocationsLogger - Releasing request lock for [f: Shipment.shipment, m: executeEventAction, rq: 6] for request #6
+27 дек. 2022 14:12:21,521  INFO PausableInvocationsLogger - Released request lock for [f: Shipment.shipment, m: executeEventAction, rq: 6] for request #6
+27 дек. 2022 14:12:21,528  INFO PausableInvocationsLogger - Acquiring request lock for [f: Shipment.shipments, m: gainedFocus, rq: 2] for request #2
+27 дек. 2022 14:12:21,534  INFO PausableInvocationsLogger - Interaction [f: Shipment.shipments, m: executeEventAction, rq: 1] resumed after userInteraction: [null]
+27 дек. 2022 14:12:21,535  INFO PausableInvocationsLogger - Invocation [f: Shipment.shipments, m: executeEventAction, rq: 1] finished
+27 дек. 2022 14:12:21,535  INFO PausableInvocationsLogger - Releasing request lock for [f: Shipment.shipments, m: executeEventAction, rq: 1] for request #1
+27 дек. 2022 14:12:21,535  INFO PausableInvocationsLogger - Released request lock for [f: Shipment.shipments, m: executeEventAction, rq: 1] for request #1
+27 дек. 2022 14:12:21,535  INFO PausableInvocationsLogger - Acquired request lock for [f: Shipment.shipments, m: gainedFocus, rq: 2] for request #2
+27 дек. 2022 14:12:21,536  INFO PausableInvocationsLogger - Run invocation: [f: Shipment.shipments, m: gainedFocus, rq: 2]
+27 дек. 2022 14:12:21,554  INFO PausableInvocationsLogger - Invocation [f: Shipment.shipments, m: gainedFocus, rq: 2] finished
+27 дек. 2022 14:12:21,554  INFO PausableInvocationsLogger - Releasing request lock for [f: Shipment.shipments, m: gainedFocus, rq: 2] for request #2
+27 дек. 2022 14:12:21,554  INFO PausableInvocationsLogger - Released request lock for [f: Shipment.shipments, m: gainedFocus, rq: 2] for request #2
+27 дек. 2022 14:12:27,110  INFO PausableInvocationsLogger - Acquiring request lock for [f: Shipment.shipments, m: executeEventAction, rq: 3] for request #3
+27 дек. 2022 14:12:27,111  INFO PausableInvocationsLogger - Acquired request lock for [f: Shipment.shipments, m: executeEventAction, rq: 3] for request #3
+27 дек. 2022 14:12:27,111  INFO PausableInvocationsLogger - Run invocation: [f: Shipment.shipments, m: executeEventAction, rq: 3]
+27 дек. 2022 14:12:27,131  INFO PausableInvocationsLogger - Interaction [f: Shipment.shipments, m: executeEventAction, rq: 3] called delayUserInteraction: FormClientAction[modalitType: DOCKED]
+27 дек. 2022 14:12:27,133  INFO PausableInvocationsLogger - Invocation [f: Shipment.shipments, m: executeEventAction, rq: 3] finished
+27 дек. 2022 14:12:27,133  INFO PausableInvocationsLogger - Releasing request lock for [f: Shipment.shipments, m: executeEventAction, rq: 3] for request #3
+27 дек. 2022 14:12:27,133  INFO PausableInvocationsLogger - Released request lock for [f: Shipment.shipments, m: executeEventAction, rq: 3] for request #3
+27 дек. 2022 14:12:27,161  INFO PausableInvocationsLogger - Acquiring request lock for [f: Shipment.shipment, m: gainedFocus, rq: 0] for request #0
+27 дек. 2022 14:12:27,161  INFO PausableInvocationsLogger - Acquired request lock for [f: Shipment.shipment, m: gainedFocus, rq: 0] for request #0
+27 дек. 2022 14:12:27,161  INFO PausableInvocationsLogger - Run invocation: [f: Shipment.shipment, m: gainedFocus, rq: 0]
+27 дек. 2022 14:12:27,162  INFO PausableInvocationsLogger - Invocation [f: Shipment.shipment, m: gainedFocus, rq: 0] finished
+27 дек. 2022 14:12:27,162  INFO PausableInvocationsLogger - Releasing request lock for [f: Shipment.shipment, m: gainedFocus, rq: 0] for request #0
+27 дек. 2022 14:12:27,162  INFO PausableInvocationsLogger - Released request lock for [f: Shipment.shipment, m: gainedFocus, rq: 0] for request #0
+27 дек. 2022 14:12:28,263  INFO PausableInvocationsLogger - Acquiring request lock for [f: Shipment.shipments, m: changePageSize, rq: 4] for request #4
+27 дек. 2022 14:12:28,263  INFO PausableInvocationsLogger - Acquired request lock for [f: Shipment.shipments, m: changePageSize, rq: 4] for request #4
+27 дек. 2022 14:12:28,263  INFO PausableInvocationsLogger - Run invocation: [f: Shipment.shipments, m: changePageSize, rq: 4]
+27 дек. 2022 14:12:28,264  INFO PausableInvocationsLogger - Invocation [f: Shipment.shipments, m: changePageSize, rq: 4] finished
+27 дек. 2022 14:12:28,264  INFO PausableInvocationsLogger - Releasing request lock for [f: Shipment.shipments, m: changePageSize, rq: 4] for request #4
+27 дек. 2022 14:12:28,264  INFO PausableInvocationsLogger - Released request lock for [f: Shipment.shipments, m: changePageSize, rq: 4] for request #4

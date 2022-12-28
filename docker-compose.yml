@@ -1,0 +1,14 @@
+version: '3.8'
+services:
+
+  db:
+    image: postgres:13.7-alpine
+    container_name: stock
+    volumes:
+      - /var/lib/postgresql/data/
+    ports:
+      - "6542:5432"
+    environment:
+      - POSTGRES_DB=stock
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=postgres
